@@ -1,0 +1,651 @@
+eventid,iyear,imonth,iday,approxdate,extended,resolution,country,country_txt,region,region_txt,provstate,city,latitude,longitude
+1.97E+11,1970,7,2,,0,,58,Dominican Republic,2,Central America & Caribbean,,Santo Domingo,18.456792,-69.951164
+1.97E+11,1970,0,0,,0,,130,Mexico,1,North America,,Mexico city,19.432608,-99.133207
+1.97001E+11,1970,1,0,,0,,160,Philippines,5,Southeast Asia,Tarlac,Unknown,15.478598,120.599741
+1.97001E+11,1970,1,0,,0,,78,Greece,8,Western Europe,Attica,Athens,37.983773,23.728157
+1.97001E+11,1970,1,0,,0,,101,Japan,4,East Asia,,Fukouka,33.580412,130.396361
+1.97001E+11,1970,1,1,,0,,217,United States,1,North America,Illinois,Cairo,37.005105,-89.176269
+1.97001E+11,1970,1,2,,0,,218,Uruguay,3,South America,Montevideo,Montevideo,-34.891151,-56.187214
+1.97001E+11,1970,1,2,,0,,217,United States,1,North America,California,Oakland,37.805065,-122.273024
+1.97001E+11,1970,1,2,,0,,217,United States,1,North America,Wisconsin,Madison,43.076592,-89.412488
+1.97001E+11,1970,1,3,,0,,217,United States,1,North America,Wisconsin,Madison,43.07295,-89.386694
+1.97001E+11,1970,1,1,,0,,217,United States,1,North America,Wisconsin,Baraboo,43.4685,-89.744299
+1.97001E+11,1970,1,6,,0,,217,United States,1,North America,Colorado,Denver,39.74001,-104.992259
+1.97001E+11,1970,1,8,,0,,98,Italy,8,Western Europe,Lazio,Rome,41.89052,12.494249
+1.97001E+11,1970,1,9,,0,,217,United States,1,North America,Michigan,Detroit,42.331685,-83.047924
+1.97001E+11,1970,1,9,,0,,217,United States,1,North America,Puerto Rico,Rio Piedras,18.399712,-66.049987
+1.97001E+11,1970,1,10,,0,,499,East Germany (GDR),9,Eastern Europe,,East Berlin,52.516667,13.4
+1.97001E+11,1970,1,11,,0,,65,Ethiopia,11,Sub-Saharan Africa,Unknown,Unknown,,
+1.97001E+11,1970,1,12,,0,,217,United States,1,North America,New York,New York City,40.610069,-73.947971
+1.97001E+11,1970,1,12,,0,,217,United States,1,North America,Puerto Rico,Rio Grande,18.379998,-65.830948
+1.97001E+11,1970,1,13,,0,,217,United States,1,North America,Washington,Seattle,47.60356,-122.329439
+2.01605E+11,2016,5,9,3/12/16 0:00,0,,95,Iraq,10,Middle East & North Africa,Baghdad,Baghdad,33.315643,44.365416
+2.01605E+11,2016,5,9,,0,,37,Cameroon,11,Sub-Saharan Africa,Extreme-North,Mora,11.050417,14.150164
+2.01605E+11,2016,5,9,,0,,195,Sudan,11,Sub-Saharan Africa,North Darfur,Kabkabiya district,13.651143,24.090425
+2.01605E+11,2016,5,9,3/12/16 0:00,1,,195,Sudan,11,Sub-Saharan Africa,North Darfur,Kabkabiya district,13.651143,24.090425
+2.01605E+11,2016,5,9,"January 19-20, 1970",1,,195,Sudan,11,Sub-Saharan Africa,South Darfur,Mashrou Abu Zeid,12.928787,24.472365
+2.01605E+11,2016,5,9,3/12/16 0:00,0,,160,Philippines,5,Southeast Asia,Sorsogon,Pangi,12.620952,124.044771
+2.01605E+11,2016,5,9,,0,,160,Philippines,5,Southeast Asia,Sulu,Maimbung,5.93293,121.025525
+2.01605E+11,2016,5,9,3/12/16 0:00,0,,160,Philippines,5,Southeast Asia,Basilan,Tubigan,6.538583,121.880355
+2.01605E+11,2016,5,9,,0,,160,Philippines,5,Southeast Asia,Maguindanao,Mamasapano,6.938487,124.514228
+2.01605E+11,2016,5,9,5/9/16 0:00,0,,228,Yemen,10,Middle East & North Africa,Taizz,Taizz,13.575029,44.011187
+2.01605E+11,2016,5,9,5/9/16 0:00,0,,228,Yemen,10,Middle East & North Africa,Taizz,Taizz,13.574714,44.010388
+2.01605E+11,2016,5,9,5/9/16 0:00,0,,228,Yemen,10,Middle East & North Africa,Taizz,Taizz,13.574698,44.010392
+2.01605E+11,2016,5,9,3/11/16 0:00,0,,173,Saudi Arabia,10,Middle East & North Africa,Asir,Unknown,17.700589,43.604145
+2.01605E+11,2016,5,9,,0,,60,Egypt,10,Middle East & North Africa,North Sinai,Arish,31.132093,33.803276
+2.01605E+11,2016,5,9,,0,,153,Pakistan,6,South Asia,Sindh,Tando Jam,25.42944,68.524464
+2.01605E+11,2016,5,9,3/12/16 0:00,0,,603,United Kingdom,8,Western Europe,Northern Ireland,Belfast,54.597013,-5.944521
+2.01605E+11,2016,5,9,,0,,603,United Kingdom,8,Western Europe,Northern Ireland,Belfast,54.644749,-5.916809
+2.01605E+11,2016,5,9,,0,,603,United Kingdom,8,Western Europe,Northern Ireland,Belfast,54.607535,-5.936661
+2.01605E+11,2016,5,9,,0,,228,Yemen,10,Middle East & North Africa,Adan,Aden,12.832175,45.028811
+2.01605E+11,2016,5,9,,0,,147,Nigeria,11,Sub-Saharan Africa,Rivers,Ahoada,5.083365,6.64999
+2.01605E+11,2016,5,9,,0,,147,Nigeria,11,Sub-Saharan Africa,Rivers,Unknown,4.858077,6.920913
+2.01605E+11,2016,5,10,,0,,147,Nigeria,11,Sub-Saharan Africa,Bayelsa,Foropa,4.601667,5.651111
+2.01605E+11,2016,5,9,3/12/16 0:00,0,,147,Nigeria,11,Sub-Saharan Africa,Rivers,Bori,4.672828,7.370033
+2.01605E+11,2016,5,8,,0,,200,Syria,10,Middle East & North Africa,Aleppo,Aleppo,36.219444,37.168889
+2.01605E+11,2016,5,9,,0,,195,Sudan,11,Sub-Saharan Africa,North Darfur,Kabkabiya district,13.651143,24.090425
+2.01605E+11,2016,5,9,11/24/13 0:00,0,,160,Philippines,5,Southeast Asia,Maguindanao,Guindulungan district,6.966054,124.348177
+2.01605E+11,2016,5,9,,0,,160,Philippines,5,Southeast Asia,Maguindanao,Shariff Aguak,6.86202,124.444219
+2.01605E+11,2016,5,9,11/25/13 0:00,0,,4,Afghanistan,6,South Asia,Faryab,Maymana,35.91784,64.775515
+2.01605E+11,2016,5,9,,0,,92,India,6,South Asia,Chhattisgarh,Maraigude,18.386905,81.65647
+2.01605E+11,2016,5,9,3/12/16 0:00,0,,92,India,6,South Asia,Chhattisgarh,Maraigude,18.388994,81.656155
+2.01605E+11,2016,5,9,3/12/16 0:00,0,,92,India,6,South Asia,Chhattisgarh,Bijapur district,18.811097,80.803694
+2.01605E+11,2016,5,9,11/25/13 0:00,0,,4,Afghanistan,6,South Asia,Ghor,Taywara district,33.519878,64.417089
+2.01605E+11,2016,5,9,11/25/13 0:00,1,7/9/10,195,Sudan,11,Sub-Saharan Africa,North Darfur,Bala Firash,13.570195,23.442392
+2.01605E+11,2016,5,9,"February 6-9, 1970",1,,195,Sudan,11,Sub-Saharan Africa,North Darfur,Tabit,13.315559,25.088358
+2.01605E+11,2016,5,9,5/9/16 0:00,1,,95,Iraq,10,Middle East & North Africa,Kirkuk,Hawijah,35.316667,43.766667
+2.01605E+11,2016,5,9,,0,,160,Philippines,5,Southeast Asia,Compostela Valley,Ambawan,7.666185,126.084369
+2.01605E+11,2016,5,9,,0,,160,Philippines,5,Southeast Asia,Cavite,Rosario,14.407962,120.849076
+2.01605E+11,2016,5,9,,0,,4,Afghanistan,6,South Asia,Faryab,Dawlatabad district,36.507414,65.000854
+2.01605E+11,2016,5,9,,0,,4,Afghanistan,6,South Asia,Faryab,Andkhoy district,36.954807,65.125389
+2.01605E+11,2016,5,9,3/12/16 0:00,0,,160,Philippines,5,Southeast Asia,Maguindanao,Sultan Mastura,7.283587,124.273646
+2.01605E+11,2016,5,9,5/9/16 0:00,0,,229,Democratic Republic of the Congo,11,Sub-Saharan Africa,North Kivu,Kilambo,-0.791773,29.045993
+2.01605E+11,2016,5,9,,0,,160,Philippines,5,Southeast Asia,Maguindanao,Pagalungan district,6.969691,124.751026
+2.01605E+11,2016,5,9,,0,,160,Philippines,5,Southeast Asia,Lanao del Sur,Dilausan,7.857415,124.341214
+2.01605E+11,2016,5,9,,0,,160,Philippines,5,Southeast Asia,Lanao del Sur,Ragayan,7.850257,124.343195
+2.01605E+11,2016,5,9,,0,,160,Philippines,5,Southeast Asia,Lanao del Sur,Cambingan,8.001676,124.299898
+2.01605E+11,2016,5,9,,0,,160,Philippines,5,Southeast Asia,Maguindanao,Kitapok,6.961375,124.457534
+2.01605E+11,2016,5,9,,0,,160,Philippines,5,Southeast Asia,Zamboanga del Sur,Tugaya,7.699061,123.145032
+2.01605E+11,2016,5,9,,0,,160,Philippines,5,Southeast Asia,Maguindanao,Datu Unsay,6.920481,124.453135
+2.01605E+11,2016,5,9,,0,,160,Philippines,5,Southeast Asia,Lanao del Norte,Diamyun,8.239826,124.370663
+2.01605E+11,2016,5,9,,0,,160,Philippines,5,Southeast Asia,Samar,Nagpapacao,12.149596,124.882265
+2.01605E+11,2016,5,9,,0,,160,Philippines,5,Southeast Asia,Maguindanao,Cotabato City,7.216411,124.250332
+2.01605E+11,2016,5,10,,0,,209,Turkey,10,Middle East & North Africa,Diyarbakir,Diyarbakir,37.919441,40.19026
+2.01605E+11,2016,5,10,,0,,209,Turkey,10,Middle East & North Africa,Van,Van,38.502988,43.375183
+2.01605E+11,2016,5,10,"February 16-17, 1970",0,,209,Turkey,10,Middle East & North Africa,Mardin,Midyat,37.415148,41.37343
+2.01605E+11,2016,5,10,5/10/16 0:00,0,,95,Iraq,10,Middle East & North Africa,Al Anbar,Abu Ghraib district,33.29711,44.066897
+2.01605E+11,2016,5,10,,0,,95,Iraq,10,Middle East & North Africa,Babil,Mahmudiyah,33.054977,44.352032
+2.01605E+11,2016,5,10,,0,6/6/10,95,Iraq,10,Middle East & North Africa,Baghdad,Baghdad,33.248484,44.511268
+2.01605E+11,2016,5,10,,0,,95,Iraq,10,Middle East & North Africa,Kirkuk,Bashir,35.242802,44.274169
+2.01605E+11,2016,5,10,,0,,95,Iraq,10,Middle East & North Africa,Saladin,Shirqat,35.493498,43.237003
+2.01605E+11,2016,5,10,,0,,153,Pakistan,6,South Asia,Balochistan,Quetta,30.171865,66.988944
+2.01605E+11,2016,5,10,11/15/15 0:00,0,,153,Pakistan,6,South Asia,Balochistan,Dera Murad Jamali,28.544652,68.220648
+2.01605E+11,2016,5,10,,0,,123,Mali,11,Sub-Saharan Africa,Gao,Bamba,17.035895,-1.403569
+2.01605E+11,2016,5,10,,0,,4,Afghanistan,6,South Asia,Nangarhar,Nazyan district,34.044527,70.828014
+2.01605E+11,2016,5,10,"November 1-30,2015",1,,113,Libya,10,Middle East & North Africa,Misrata,Abu Qurayn,31.452279,15.258146
+2.01605E+11,2016,5,10,,1,,113,Libya,10,Middle East & North Africa,Misrata,Abu Qurayn,31.453577,15.25491
+2.01605E+11,2016,5,10,5/10/16 0:00,0,6/23/83,95,Iraq,10,Middle East & North Africa,Baghdad,Baghdad,33.268366,44.344548
+2.01605E+11,2016,5,10,,0,,95,Iraq,10,Middle East & North Africa,Diyala,Abu Khanazir,33.884875,44.76152
+2.01605E+11,2016,5,10,,0,,95,Iraq,10,Middle East & North Africa,Kirkuk,Riyadh,35.269958,43.91286
+2.01605E+11,2016,5,10,,0,,153,Pakistan,6,South Asia,Balochistan,Dera Murad Jamali,28.544652,68.220648
+2.01605E+11,2016,5,10,,0,,95,Iraq,10,Middle East & North Africa,Diyala,Muqdadiyah,33.948636,44.916466
+2.01605E+11,2016,5,10,6/5/10,0,,95,Iraq,10,Middle East & North Africa,Diyala,Muqdadiyah,33.947622,44.918963
+2.01605E+11,2016,5,10,5/10/16 0:00,0,,95,Iraq,10,Middle East & North Africa,Al Anbar,Ramadi,33.416679,43.300014
+2.01605E+11,2016,5,10,,0,,228,Yemen,10,Middle East & North Africa,Taizz,Taizz,13.574698,44.010392
+2.01605E+11,2016,5,10,5/10/16 0:00,0,,4,Afghanistan,6,South Asia,Zabul,Naw Bahar district,32.222202,67.56371
+2.01605E+11,2016,5,9,3/13/16 0:00,0,,160,Philippines,5,Southeast Asia,Maguindanao,Salipada Pendatun,6.79738,124.702754
+2.01605E+11,2016,5,10,,0,,60,Egypt,10,Middle East & North Africa,North Sinai,Arish,31.132018,33.8032
+2.01605E+11,2016,5,10,,0,,75,Germany,8,Western Europe,Bavaria,Grafing,48.047381,11.963047
+2.01605E+11,2016,5,10,,0,,153,Pakistan,6,South Asia,Sindh,Jamshoro,25.444844,68.307042
+2.01605E+11,2016,5,10,11/16/15 0:00,0,,153,Pakistan,6,South Asia,Khyber Pakhtunkhwa,Peshawar,34.008312,71.578065
+2.01605E+11,2016,5,10,,0,,155,West Bank and Gaza Strip,10,Middle East & North Africa,West Bank,Hizma,31.834286,35.264009
+2.01605E+11,2016,5,10,,0,,155,West Bank and Gaza Strip,10,Middle East & North Africa,West Bank,Jerusalem,31.750202,35.236683
+2.01605E+11,2016,5,10,,0,,228,Yemen,10,Middle East & North Africa,Adan,Aden,12.831467,45.027985
+2.01605E+11,2016,5,10,,0,,4,Afghanistan,6,South Asia,Kandahar,Shah Wali Kot district,31.866938,65.870861
+2.01605E+11,2016,5,10,,0,,147,Nigeria,11,Sub-Saharan Africa,Rivers,Port Harcourt,4.815554,7.049844
+2.01605E+11,2016,5,10,5/10/16 0:00,0,,4,Afghanistan,6,South Asia,Ghazni,Unknown,33.545059,68.417397
+2.01605E+11,2016,5,10,,0,,200,Syria,10,Middle East & North Africa,Homs,Huwaysis,34.831745,37.683487
+2.01605E+11,2016,5,10,,0,,92,India,6,South Asia,Bihar,Bela,24.970643,84.970406
+2.01605E+11,2016,5,10,,1,,92,India,6,South Asia,Arunachal Pradesh,Kherem Murah,27.507812,95.907251
+2.01605E+11,2016,5,10,,1,,92,India,6,South Asia,Maharashtra,Kundurwahi,19.414085,80.59306
+2.01605E+11,2016,5,10,,0,,182,Somalia,11,Sub-Saharan Africa,Banaadir,Mogadishu,2.038609,45.34162
+2.01605E+11,2016,5,10,,0,,182,Somalia,11,Sub-Saharan Africa,Lower Juba,Kismayo,-0.356045,42.546057
+2.01605E+11,2016,5,10,,0,,214,Ukraine,9,Eastern Europe,Zaporizhzhya,Enerhodar,47.501507,34.634186
+2.01605E+11,2016,5,10,5/10/16 0:00,0,3/8/70,153,Pakistan,6,South Asia,Punjab,Sutlej,29.445303,71.654315
+2.01605E+11,2016,5,10,,0,,160,Philippines,5,Southeast Asia,Zamboanga del Sur,Pagadian,7.82978,123.437446
+2.01605E+11,2016,5,10,11/27/13 0:00,0,,200,Syria,10,Middle East & North Africa,Aleppo,Aleppo,36.201234,37.133062
+2.01605E+11,2016,5,10,,0,,200,Syria,10,Middle East & North Africa,Aleppo,Aleppo,36.201234,37.133062
+2.01605E+11,2016,5,10,,0,,138,Myanmar,5,Southeast Asia,Rakhine,Sittwe,20.146059,92.896376
+2.01605E+11,2016,5,11,5/11/16 0:00,0,,95,Iraq,10,Middle East & North Africa,Baghdad,Baghdad,33.314435,44.506572
+2.01605E+11,2016,5,11,5/11/16 0:00,0,,95,Iraq,10,Middle East & North Africa,Babil,Yusufiyah,33.079162,44.252883
+2.01605E+11,2016,5,11,,0,,95,Iraq,10,Middle East & North Africa,Baghdad,Baghdad,33.333095,44.32129
+2.01605E+11,2016,5,11,,0,,95,Iraq,10,Middle East & North Africa,Baghdad,Baghdad,33.381153,44.344818
+2.01605E+11,2016,5,11,,0,,95,Iraq,10,Middle East & North Africa,Baghdad,Baghdad,33.312755,44.358388
+2.01605E+11,2016,5,11,5/11/16 0:00,0,,95,Iraq,10,Middle East & North Africa,Al Anbar,Hit,33.643577,42.824707
+2.01605E+11,2016,5,11,5/11/16 0:00,0,3/15/70,95,Iraq,10,Middle East & North Africa,Al Anbar,Amiriyat al-Fallujah,33.164486,43.864934
+2.01605E+11,2016,5,10,11/17/15 0:00,0,,95,Iraq,10,Middle East & North Africa,Diyala,Baqubah,33.752336,44.628474
+2.01605E+11,2016,5,11,,0,6/27/10,95,Iraq,10,Middle East & North Africa,Baghdad,Baghdad,33.39022,44.460538
+2.01605E+11,2016,5,11,11/17/15 0:00,0,,123,Mali,11,Sub-Saharan Africa,Gao,Gao,16.272278,-0.048965
+2.01605E+11,2016,5,11,,0,,228,Yemen,10,Middle East & North Africa,Adan,Aden,12.785497,45.018655
+2.01605E+11,2016,5,11,,0,,228,Yemen,10,Middle East & North Africa,Hadramawt,Qatan,16.902568,49.328913
+2.01605E+11,2016,5,11,,0,,160,Philippines,5,Southeast Asia,Basilan,Mohammad Ajul,6.662166,122.137866
+2.01605E+11,2016,5,11,,0,,160,Philippines,5,Southeast Asia,Maguindanao,Shariff Aguak,6.859253,124.452748
+2.01605E+11,2016,5,10,,1,,4,Afghanistan,6,South Asia,Helmand,Gereshk,31.821355,64.562412
+2.01605E+11,2016,5,10,,1,3/31/70,4,Afghanistan,6,South Asia,Helmand,Nad Ali district,31.64052,64.243549
+2.01605E+11,2016,5,11,,0,,141,Nepal,6,South Asia,Mid-Western,Syuja,28.064,82.596119
+2.01605E+11,2016,5,11,,0,,603,United Kingdom,8,Western Europe,Northern Ireland,Magherafelt,54.756379,-6.607079
+2.01605E+11,2016,5,11,,0,3/15/70,147,Nigeria,11,Sub-Saharan Africa,Borno,Maiduguri,11.831098,13.150967
+2.01605E+11,2016,5,11,,0,,153,Pakistan,6,South Asia,Balochistan,Quetta,30.241806,67.015727
+2.01605E+11,2016,5,10,6/9/10,0,,60,Egypt,10,Middle East & North Africa,North Sinai,Arish,31.132091,33.803272
+2.01605E+11,2016,5,11,"March 16-17, 1970",1,,182,Somalia,11,Sub-Saharan Africa,Lower Shebelle,Galoole,2.043832,44.834958
+2.01605E+11,2016,5,11,5/11/16 0:00,0,,95,Iraq,10,Middle East & North Africa,Al Anbar,Fallujah,33.344565,43.781351
+2.01605E+11,2016,5,11,,0,,92,India,6,South Asia,Jammu and Kashmir,Anantnag,33.731126,75.148701
+2.01605E+11,2016,5,11,,0,,214,Ukraine,9,Eastern Europe,Kharkiv,Kharkiv,49.9935,36.230383
+2.01605E+11,2016,5,11,5/11/16 0:00,0,,208,Tunisia,10,Middle East & North Africa,Tataouine,Tataouine,32.932542,10.451169
+2.01605E+11,2016,5,11,3/14/16 0:00,0,,4,Afghanistan,6,South Asia,Herat,Char Qala,33.30506,62.148785
+2.01605E+11,2016,5,11,11/27/13 0:00,0,,4,Afghanistan,6,South Asia,Herat,Shindand,33.306728,62.154864
+2.01605E+11,2016,5,11,5/11/16 0:00,0,,4,Afghanistan,6,South Asia,Jawzjan,Aqcha district,36.901498,66.18317
+2.01605E+11,2016,5,11,3/14/16 0:00,0,,167,Russia,9,Eastern Europe,Vologda,Vologda,59.218067,39.897805
+2.01605E+11,2016,5,12,"June 10-11, 2010",0,,95,Iraq,10,Middle East & North Africa,Baghdad,Baghdad,33.379642,44.53695
+2.01605E+11,2016,5,12,11/25/15 0:00,0,,95,Iraq,10,Middle East & North Africa,Saladin,Balad,34.007622,44.148291
+2.01605E+11,2016,5,12,5/12/16 0:00,0,,95,Iraq,10,Middle East & North Africa,Baghdad,Baghdad,33.22809,44.436129
+2.01605E+11,2016,5,12,5/12/16 0:00,0,,95,Iraq,10,Middle East & North Africa,Baghdad,Baghdad,33.278309,44.328567
+2.01605E+11,2016,5,12,,0,3/26/70,95,Iraq,10,Middle East & North Africa,Al Anbar,Abu Ghraib,33.29711,44.066897
+2.01605E+11,2016,5,12,5/12/16 0:00,0,3/28/70,95,Iraq,10,Middle East & North Africa,Babil,Latifiyah,32.98499,44.35676
+2.01605E+11,2016,5,12,5/12/16 0:00,0,6/26/10,95,Iraq,10,Middle East & North Africa,Al Anbar,Karma,33.401867,43.914971
+2.01605E+11,2016,5,12,5/12/16 0:00,0,,95,Iraq,10,Middle East & North Africa,Al Anbar,Karma,33.401867,43.914971
+2.01605E+11,2016,5,12,,0,,95,Iraq,10,Middle East & North Africa,Al Anbar,Ramadi,33.435279,43.281158
+2.01605E+11,2016,5,12,,0,,95,Iraq,10,Middle East & North Africa,Arbil,Makhmur,35.774979,43.591201
+2.01605E+11,2016,5,12,5/12/16 0:00,0,,95,Iraq,10,Middle East & North Africa,Nineveh,Mosul,36.357064,43.163827
+2.01605E+11,2016,5,12,5/12/16 0:00,0,,95,Iraq,10,Middle East & North Africa,Kirkuk,Kirkuk,35.466463,44.317369
+2.01605E+11,2016,5,12,5/12/16 0:00,0,,95,Iraq,10,Middle East & North Africa,Kirkuk,Mahus,35.49306,43.837783
+2.01605E+11,2016,5,11,,0,,113,Libya,10,Middle East & North Africa,Misrata,Sadadah,31.524467,14.761961
+2.01605E+11,2016,5,12,,1,4/5/70,113,Libya,10,Middle East & North Africa,Sirte,Sirte,31.20456,16.589369
+2.01605E+11,2016,5,12,5/12/16 0:00,0,4/3/70,95,Iraq,10,Middle East & North Africa,Al Anbar,Fallujah,33.344604,43.783539
+2.01605E+11,2016,5,12,,0,,228,Yemen,10,Middle East & North Africa,Hadramawt,Mukalla,14.540543,49.127083
+2.01605E+11,2016,5,12,,0,,228,Yemen,10,Middle East & North Africa,Hadramawt,Mukalla,14.540543,49.127083
+2.01605E+11,2016,5,12,,0,4/5/70,95,Iraq,10,Middle East & North Africa,Saladin,Balad,34.008213,44.147578
+2.01605E+11,2016,5,10,,0,,4,Afghanistan,6,South Asia,Uruzgan,Safid Khar,32.631687,65.815909
+2.01605E+11,2016,5,10,,0,,4,Afghanistan,6,South Asia,Kandahar,Ibrahim Khalifa Baba,31.404692,65.68915
+2.01605E+11,2016,5,12,,0,,209,Turkey,10,Middle East & North Africa,Istanbul,Istanbul,41.002967,29.234174
+2.01605E+11,2016,5,12,,0,,4,Afghanistan,6,South Asia,Samangan,Khush Dara,35.659882,67.625671
+2.01605E+11,2016,5,12,11/18/15 0:00,0,,92,India,6,South Asia,Haryana,Panipat,29.390946,76.963502
+2.01605E+11,2016,5,12,11/18/15 0:00,0,,92,India,6,South Asia,Jharkhand,Dewaria,24.187059,84.882419
+2.01605E+11,2016,5,12,,0,,153,Pakistan,6,South Asia,Khyber Pakhtunkhwa,Peshawar,34.004772,71.577987
+2.01605E+11,2016,5,11,11/18/15 0:00,0,,205,Thailand,5,Southeast Asia,Bangkok,Bangkok,13.739414,100.516828
+2.01605E+11,2016,5,12,,0,,200,Syria,10,Middle East & North Africa,Aleppo,Aleppo,36.15937,37.131995
+2.01605E+11,2016,5,12,,0,,147,Nigeria,11,Sub-Saharan Africa,Borno,Maiduguri,11.831098,13.150967
+2.01605E+11,2016,5,12,5/12/16 0:00,0,7/5/83,95,Iraq,10,Middle East & North Africa,Nineveh,Mosul,36.354073,43.163544
+2.01605E+11,2016,5,12,5/12/16 0:00,0,,95,Iraq,10,Middle East & North Africa,Arbil,Mahanah,35.771197,43.36369
+2.01605E+11,2016,5,12,5/12/16 0:00,0,,95,Iraq,10,Middle East & North Africa,Nineveh,Mosul,36.354809,43.164
+2.01605E+11,2016,5,12,5/12/16 0:00,0,,95,Iraq,10,Middle East & North Africa,Nineveh,Mosul,36.340365,43.136026
+2.01605E+11,2016,5,12,5/12/16 0:00,0,,195,Sudan,11,Sub-Saharan Africa,North Darfur,Tawilah,13.514231,24.860632
+2.01605E+11,2016,5,12,,1,,200,Syria,10,Middle East & North Africa,Hamah,Zara,34.922347,36.660479
+2.01605E+11,2016,5,12,,0,,113,Libya,10,Middle East & North Africa,Misrata,Misrata,32.319683,15.102508
+2.01605E+11,2016,5,12,,0,,153,Pakistan,6,South Asia,Balochistan,Sangsila,29.081563,68.8491
+2.01605E+11,2016,5,12,5/12/16 0:00,0,,4,Afghanistan,6,South Asia,Faryab,Shirin Tagab district,36.237636,64.863161
+2.01605E+11,2016,5,12,,0,,123,Mali,11,Sub-Saharan Africa,Timbuktu,Goundam,16.417543,-3.664596
+2.01605E+11,2016,5,12,3/15/16 0:00,0,,4,Afghanistan,6,South Asia,Ghor,Noor Koh,34.526775,65.254818
+2.01605E+11,2016,5,12,3/15/16 0:00,0,,160,Philippines,5,Southeast Asia,Lanao del Sur,Marawi,8.001327,124.290291
+2.01605E+11,2016,5,12,3/15/16 0:00,0,,200,Syria,10,Middle East & North Africa,Aleppo,Aleppo,36.190859,37.127002
+2.01605E+11,2016,5,13,,0,,95,Iraq,10,Middle East & North Africa,Baghdad,Baghdad,33.232545,44.382511
+2.01605E+11,2016,5,13,5/13/16 0:00,0,,95,Iraq,10,Middle East & North Africa,Babil,Latifiyah,32.98499,44.35676
+2.01605E+11,2016,5,13,,0,,95,Iraq,10,Middle East & North Africa,Al Anbar,Rawah,34.478882,41.914685
+2.01605E+11,2016,5,13,11/18/15 0:00,1,,95,Iraq,10,Middle East & North Africa,Saladin,Dujail,33.834713,44.252583
+2.01605E+11,2016,5,13,,0,,153,Pakistan,6,South Asia,Balochistan,Quetta,30.194629,67.015727
+2.01605E+11,2016,5,12,,0,,4,Afghanistan,6,South Asia,Nangarhar,Ghani Khel,34.19495,70.79619
+2.01605E+11,2016,5,13,3/15/16 0:00,0,,4,Afghanistan,6,South Asia,Kabul,Paghman district,34.591625,68.956999
+2.01605E+11,2016,5,10,,1,,113,Libya,10,Middle East & North Africa,Misrata,Abu Qurayn,31.454509,15.250769
+2.01605E+11,2016,5,13,,1,7/7/83,113,Libya,10,Middle East & North Africa,Jabal Al Akhdar,Beida,32.756408,21.737574
+2.01605E+11,2016,5,13,,0,,92,India,6,South Asia,Bihar,Siwan district,26.219631,84.356424
+2.01605E+11,2016,5,13,,0,,92,India,6,South Asia,Bihar,Buxar,25.56471,83.977748
+2.01605E+11,2016,5,13,,0,,147,Nigeria,11,Sub-Saharan Africa,Delta,Warri,5.526937,5.751029
+2.01605E+11,2016,5,13,,0,6/15/09,92,India,6,South Asia,Meghalaya,Shillong,25.579549,91.891915
+2.01605E+11,2016,5,13,,0,,4,Afghanistan,6,South Asia,Nangarhar,Rodat district,34.292374,70.574089
+2.01605E+11,2016,5,13,,0,,45,Colombia,3,South America,Norte de Santander,El Tarra,8.576,-73.094867
+2.01605E+11,2016,5,13,,0,,19,Bangladesh,6,South Asia,Chittagong,Nayapara,20.95519,92.251855
+2.01605E+11,2016,5,13,11/19/15 0:00,0,,209,Turkey,10,Middle East & North Africa,Hakkari,Cigli,37.332254,43.379864
+2.01605E+11,2016,5,13,,0,,182,Somalia,11,Sub-Saharan Africa,Hiiraan,Bulobarde district,3.855562,45.570019
+2.01605E+11,2016,5,13,5/13/16 0:00,0,,182,Somalia,11,Sub-Saharan Africa,Banaadir,Mogadishu,2.046934,45.318162
+2.01605E+11,2016,5,13,,0,,37,Cameroon,11,Sub-Saharan Africa,Extreme-North,Ngouraya,11.926227,15.053974
+2.01605E+11,2016,5,13,,0,,92,India,6,South Asia,Tamil Nadu,Kavarapalayam,13.120821,80.08611
+2.01605E+11,2016,5,14,,0,,95,Iraq,10,Middle East & North Africa,Saladin,Dawr district,34.433296,44.172177
+2.01605E+11,2016,5,14,,0,,95,Iraq,10,Middle East & North Africa,Saladin,Dawr district,34.433296,44.172177
+2.01605E+11,2016,5,14,,1,,95,Iraq,10,Middle East & North Africa,Nineveh,Mosul,36.356648,43.164
+2.01605E+11,2016,5,14,5/14/16 0:00,0,,95,Iraq,10,Middle East & North Africa,Nineveh,Mosul,36.357476,43.164087
+2.01605E+11,2016,5,14,,0,,95,Iraq,10,Middle East & North Africa,Baghdad,Baghdad,33.271304,44.493066
+2.01605E+11,2016,5,14,,0,6/21/10,95,Iraq,10,Middle East & North Africa,Diyala,Madain,33.10025,44.583254
+2.01605E+11,2016,5,14,5/14/16 0:00,0,,95,Iraq,10,Middle East & North Africa,Baghdad,Baghdad,33.312923,44.361251
+2.01605E+11,2016,5,14,11/19/15 0:00,0,,95,Iraq,10,Middle East & North Africa,Diyala,Husseiniyah,33.546345,44.412182
+2.01605E+11,2016,5,14,5/14/16 0:00,0,,95,Iraq,10,Middle East & North Africa,Kirkuk,Kirkuk,35.465576,44.380392
+2.01605E+11,2016,5,14,,0,,95,Iraq,10,Middle East & North Africa,Al Anbar,Amiriyat al-Fallujah,33.164486,43.864934
+2.01605E+11,2016,5,14,11/19/15 0:00,0,,95,Iraq,10,Middle East & North Africa,Al Anbar,Qarbat Albu Hayyat,34.006082,42.422079
+2.01605E+11,2016,5,14,,0,,95,Iraq,10,Middle East & North Africa,Al Anbar,Barwana,34.091304,42.384122
+2.01605E+11,2016,5,14,5/14/16 0:00,0,,95,Iraq,10,Middle East & North Africa,Al Anbar,Fallujah,33.349913,43.78483
+2.01605E+11,2016,5,14,11/20/15 0:00,0,,4,Afghanistan,6,South Asia,Helmand,Nad Ali district,31.64052,64.243549
+2.01605E+11,2016,5,14,,0,,95,Iraq,10,Middle East & North Africa,Baghdad,Baghdad,33.313294,44.359513
+2.01605E+11,2016,5,14,,0,,95,Iraq,10,Middle East & North Africa,Al Anbar,Amiriyat al-Fallujah,33.16778,43.870395
+2.01605E+11,2016,5,14,,0,,95,Iraq,10,Middle East & North Africa,Saladin,Tikrit,34.617534,43.659508
+2.01605E+11,2016,5,14,,0,,182,Somalia,11,Sub-Saharan Africa,Banaadir,Mogadishu,2.072289,45.222872
+2.01605E+11,2016,5,13,,0,,182,Somalia,11,Sub-Saharan Africa,Hiiraan,Adan Yabaal,3.778146,46.246641
+2.01605E+11,2016,5,14,3/15/16 0:00,0,,182,Somalia,11,Sub-Saharan Africa,Banaadir,Mogadishu,2.021916,45.313468
+2.01605E+11,2016,5,14,"March 1-31, 2016",0,,160,Philippines,5,Southeast Asia,Negros Occidental,San Isidro,10.716471,123.516044
+2.01605E+11,2016,5,14,5/14/16 0:00,0,,4,Afghanistan,6,South Asia,Jawzjan,Khokab,36.001456,65.359381
+2.01605E+11,2016,5,12,,0,,4,Afghanistan,6,South Asia,Ghor,Pasaband district,33.473069,64.821179
+2.01605E+11,2016,5,14,,0,,60,Egypt,10,Middle East & North Africa,North Sinai,Sheikh Zuweid,31.210571,34.105139
+2.01605E+11,2016,5,14,,1,,200,Syria,10,Middle East & North Africa,Deir ez-Zor,Deir ez-Zor,35.329944,40.136664
+2.01605E+11,2016,5,14,3/16/16 0:00,0,,92,India,6,South Asia,Kerala,Koyilot Thalikavu,11.866037,75.519165
+2.01605E+11,2016,5,14,,0,,19,Bangladesh,6,South Asia,Chittagong,Baishari,21.513929,92.176654
+2.01605E+11,2016,5,14,5/14/16 0:00,0,,147,Nigeria,11,Sub-Saharan Africa,Borno,Antul,12.018311,13.960334
+2.01605E+11,2016,5,14,,0,,147,Nigeria,11,Sub-Saharan Africa,Borno,Konduga district,11.509748,12.978912
+2.01605E+11,2016,5,14,11/29/13 0:00,0,,200,Syria,10,Middle East & North Africa,Al Hasakah,Qamishli,37.048814,41.219078
+2.01605E+11,2016,5,14,,0,,153,Pakistan,6,South Asia,Khyber Pakhtunkhwa,Tank district,32.214296,70.37773
+2.01605E+11,2016,5,14,,0,,153,Pakistan,6,South Asia,Khyber Pakhtunkhwa,Faqirabad,33.888963,71.492269
+2.01605E+11,2016,5,14,11/30/13 0:00,0,,182,Somalia,11,Sub-Saharan Africa,Hiiraan,Adan Yabaal,3.778146,46.246641
+2.01605E+11,2016,5,14,,0,,200,Syria,10,Middle East & North Africa,Aleppo,Aleppo,36.209706,37.151891
+2.01605E+11,2016,5,15,,0,2/16/14,19,Bangladesh,6,South Asia,Khulna,Khulna,22.845641,89.540328
+2.01605E+11,2016,5,14,3/16/16 0:00,0,,160,Philippines,5,Southeast Asia,Ilocos Sur,Rosario,16.991623,120.735449
+2.01605E+11,2016,5,14,11/20/15 0:00,0,,4,Afghanistan,6,South Asia,Baghlan,Chashma Sher,36.061147,68.591161
+2.01605E+11,2016,5,14,5/14/16 0:00,0,,4,Afghanistan,6,South Asia,Baghlan,Qaysar Khel,36.162671,68.687112
+2.01605E+11,2016,5,14,5/14/16 0:00,0,,4,Afghanistan,6,South Asia,Baghlan,Kog Chinar,36.226241,68.773482
+2.01605E+11,2016,5,14,5/14/16 0:00,0,,4,Afghanistan,6,South Asia,Baghlan,Puli Khumri,35.943802,68.709536
+2.01605E+11,2016,5,14,5/14/16 0:00,0,,4,Afghanistan,6,South Asia,Baghlan,Puli Khumri,35.954744,68.709264
+2.01605E+11,2016,5,14,5/14/16 0:00,0,,4,Afghanistan,6,South Asia,Logar,Puli Alam district,33.999938,69.019532
+2.01605E+11,2016,5,14,5/14/16 0:00,0,,4,Afghanistan,6,South Asia,Logar,Puli Alam district,33.999938,69.019532
+2.01605E+11,2016,5,14,5/14/16 0:00,0,,4,Afghanistan,6,South Asia,Nimroz,Unknown,31.026149,62.450415
+2.01605E+11,2016,5,14,11/20/15 0:00,0,,160,Philippines,5,Southeast Asia,Batangas,Laurel,14.052228,120.933138
+2.01605E+11,2016,5,15,,0,,14,Australia,12,Australasia & Oceania,Victoria,Fawkner,-37.698179,144.965079
+2.01605E+11,2016,5,15,,0,,95,Iraq,10,Middle East & North Africa,Saladin,Taji,33.536379,44.261431
+2.01605E+11,2016,5,15,,0,,228,Yemen,10,Middle East & North Africa,Hadramawt,Mukalla,14.540433,49.127197
+2.01605E+11,2016,5,15,5/15/16 0:00,0,,95,Iraq,10,Middle East & North Africa,Babil,Mahmudiyah,33.054977,44.352032
+2.01605E+11,2016,5,15,5/15/16 0:00,0,,95,Iraq,10,Middle East & North Africa,Baghdad,Baghdad,33.333338,44.317513
+2.01605E+11,2016,5,15,,0,,95,Iraq,10,Middle East & North Africa,Babil,Latifiyah,32.98499,44.35676
+2.01605E+11,2016,5,15,,0,,95,Iraq,10,Middle East & North Africa,Diyala,Nahrawan,33.376952,44.70296
+2.01605E+11,2016,5,15,5/15/16 0:00,0,,95,Iraq,10,Middle East & North Africa,Baghdad,Baghdad,33.223331,44.434796
+2.01605E+11,2016,5,15,,0,,95,Iraq,10,Middle East & North Africa,Babil,Rasheed,33.114908,44.374168
+2.01605E+11,2016,5,15,,0,,95,Iraq,10,Middle East & North Africa,Babil,Yusufiyah,33.079162,44.252883
+2.01605E+11,2016,5,15,5/15/16 0:00,0,,95,Iraq,10,Middle East & North Africa,Baghdad,Baghdad,33.322081,44.451217
+2.01605E+11,2016,5,15,3/17/16 0:00,0,,153,Pakistan,6,South Asia,Balochistan,Turbat,26.008055,63.038306
+2.01605E+11,2016,5,15,3/17/16 0:00,1,,153,Pakistan,6,South Asia,Balochistan,Turbat,26.003057,63.051142
+2.01605E+11,2016,5,15,,0,,123,Mali,11,Sub-Saharan Africa,Kidal,Unknown,18.452051,1.409116
+2.01605E+11,2016,5,15,3/17/16 0:00,0,,228,Yemen,10,Middle East & North Africa,Hadramawt,Mukalla,14.540433,49.127197
+2.01605E+11,2016,5,15,3/17/16 0:00,0,,182,Somalia,11,Sub-Saharan Africa,Hiiraan,Halgan,4.210833,45.563056
+2.01605E+11,2016,5,15,,0,,4,Afghanistan,6,South Asia,Uruzgan,Shahidi Hassas district,32.955207,65.603337
+2.01605E+11,2016,5,15,,0,,4,Afghanistan,6,South Asia,Uruzgan,Chora district,32.845727,66.050109
+2.01605E+11,2016,5,14,,0,,229,Democratic Republic of the Congo,11,Sub-Saharan Africa,North Kivu,Ndalia,0.665445,29.129544
+2.01605E+11,2016,5,14,3/17/16 0:00,0,,229,Democratic Republic of the Congo,11,Sub-Saharan Africa,North Kivu,Kata Beyi,0.665445,29.129544
+2.01605E+11,2016,5,15,,0,,60,Egypt,10,Middle East & North Africa,North Sinai,Arish,31.132077,33.803235
+2.01605E+11,2016,5,15,,0,,603,United Kingdom,8,Western Europe,Northern Ireland,Londonderry,55.01875,-7.345551
+2.01605E+11,2016,5,15,,0,,603,United Kingdom,8,Western Europe,Northern Ireland,Cushendun,55.12578,-6.04293
+2.01605E+11,2016,5,15,,0,,147,Nigeria,11,Sub-Saharan Africa,Bayelsa,Ogbembiri,4.455995,6.27077
+2.01605E+11,2016,5,15,,0,,182,Somalia,11,Sub-Saharan Africa,Banaadir,Mogadishu,2.049125,45.329901
+2.01605E+11,2016,5,15,,0,,153,Pakistan,6,South Asia,Khyber Pakhtunkhwa,Gomal,32.11619,70.157069
+2.01605E+11,2016,5,15,5/15/16 0:00,0,,45,Colombia,3,South America,Norte de Santander,Sardinata,8.085092,-72.799937
+2.01605E+11,2016,5,15,5/15/16 0:00,0,,113,Libya,10,Middle East & North Africa,Sirte,Abu Hadi,31.057352,16.663126
+2.01605E+11,2016,5,15,,0,,209,Turkey,10,Middle East & North Africa,Sirnak,Silopi,37.2487,42.4713
+2.01605E+11,2016,5,15,,0,,137,Mozambique,11,Sub-Saharan Africa,Zambezia,Murrotone,-16.84523,36.971038
+2.01605E+11,2016,5,15,,0,,160,Philippines,5,Southeast Asia,Basilan,Limook,6.642103,122.136596
+2.01605E+11,2016,5,15,11/21/15 0:00,0,,138,Myanmar,5,Southeast Asia,Kachin,Hmaw Si Sar,25.61614,96.296284
+2.01605E+11,2016,5,15,,0,,138,Myanmar,5,Southeast Asia,Kachin,Hmaw Si Sar,25.615587,96.300826
+2.01605E+11,2016,5,15,,0,,138,Myanmar,5,Southeast Asia,Kachin,Yumar,25.615431,96.317559
+2.01605E+11,2016,5,15,,0,,138,Myanmar,5,Southeast Asia,Rakhine,Sittwe,20.152766,92.867686
+2.01605E+11,2016,5,15,"May 1-31, 2016",0,,160,Philippines,5,Southeast Asia,Agusan del Sur,Talacogon district,8.445705,125.787864
+2.01605E+11,2016,5,10,5/10/16 0:00,0,,4,Afghanistan,6,South Asia,Kabul,Kabul,34.533333,69.166667
+2.01605E+11,2016,5,15,"May 1-31, 2016",0,,92,India,6,South Asia,Tamil Nadu,Unknown,11.127122,78.656894
+2.01605E+11,2016,5,16,,0,,95,Iraq,10,Middle East & North Africa,Baghdad,Baghdad,33.205814,44.257377
+2.01605E+11,2016,5,16,,0,,95,Iraq,10,Middle East & North Africa,Baghdad,Baghdad,33.420618,44.399616
+2.01605E+11,2016,5,16,11/21/15 0:00,0,,95,Iraq,10,Middle East & North Africa,Al Anbar,Khalidiyah,33.387258,43.528423
+2.01605E+11,2016,5,16,,1,6/21/08,113,Libya,10,Middle East & North Africa,Sirte,Sirte,31.20456,16.589369
+2.01605E+11,2016,5,16,,0,,153,Pakistan,6,South Asia,Khyber Pakhtunkhwa,Paroa,31.55509,70.760696
+2.01605E+11,2016,5,16,,0,,113,Libya,10,Middle East & North Africa,Benghazi,Benghazi,32.100353,20.07972
+2.01605E+11,2016,5,16,,0,,87,Haiti,2,Central America & Caribbean,Sud,Les Cayes,18.204285,-73.75367
+2.01605E+11,2016,5,16,,0,,153,Pakistan,6,South Asia,Federally Administered Tribal Areas,Sandana,33.925528,70.894174
+2.01605E+11,2016,5,16,5/16/16 0:00,0,,95,Iraq,10,Middle East & North Africa,Baghdad,Baghdad,33.251332,44.507785
+2.01605E+11,2016,5,16,5/16/16 0:00,0,,95,Iraq,10,Middle East & North Africa,Baghdad,Baghdad,33.248484,44.511268
+2.01605E+11,2016,5,16,5/16/16 0:00,0,,95,Iraq,10,Middle East & North Africa,Nineveh,Mosul,36.356882,43.16398
+2.01605E+11,2016,5,16,5/16/16 0:00,0,,95,Iraq,10,Middle East & North Africa,Saladin,Baiji district,35.018003,43.445215
+2.01605E+11,2016,5,16,5/16/16 0:00,0,,95,Iraq,10,Middle East & North Africa,Al Anbar,Rutbah district,33.03639,40.283332
+2.01605E+11,2016,5,16,,0,,228,Yemen,10,Middle East & North Africa,Hadramawt,Mukalla,14.540433,49.127197
+2.01605E+11,2016,5,16,,0,,182,Somalia,11,Sub-Saharan Africa,Gedo,Bardere,2.339047,42.288006
+2.01605E+11,2016,5,16,,0,,205,Thailand,5,Southeast Asia,Pattani,Thanon tambon,6.736775,101.428253
+2.01605E+11,2016,5,16,,0,,92,India,6,South Asia,Chhattisgarh,Narayanpur district,19.72562,81.233825
+2.01605E+11,2016,5,16,,0,,209,Turkey,10,Middle East & North Africa,Istanbul,Istanbul,40.949802,29.173951
+2.01605E+11,2016,5,16,11/21/15 0:00,0,6/24/10,92,India,6,South Asia,Kerala,Mayyil,11.992541,75.449039
+2.01605E+11,2016,5,16,,0,,97,Israel,10,Middle East & North Africa,Jerusalem,Jerusalem,31.783729,35.222247
+2.01605E+11,2016,5,16,,0,,4,Afghanistan,6,South Asia,Farah,Lash Wa Juwayn district,31.829586,61.230701
+2.01605E+11,2016,5,16,5/16/16 0:00,0,,95,Iraq,10,Middle East & North Africa,Al Anbar,Unknown,32.559761,41.919647
+2.01605E+11,2016,5,16,,0,,147,Nigeria,11,Sub-Saharan Africa,Kaduna,Kaduna,10.510464,7.416505
+2.01605E+11,2016,5,16,,0,,92,India,6,South Asia,Jammu and Kashmir,Autipora,33.778175,76.576171
+2.01605E+11,2016,5,16,,0,,153,Pakistan,6,South Asia,Balochistan,Mastung district,29.408737,67.189449
+2.01605E+11,2016,5,16,,0,,183,South Africa,11,Sub-Saharan Africa,KwaZulu-Natal,Nongoma,-27.894289,31.645303
+2.01605E+11,2016,5,16,,0,,95,Iraq,10,Middle East & North Africa,Al Anbar,Khalidiyah,33.387258,43.528423
+2.01605E+11,2016,5,16,,0,,95,Iraq,10,Middle East & North Africa,Al Anbar,Khalidiyah,33.388288,43.527382
+2.01605E+11,2016,5,16,,0,,160,Philippines,5,Southeast Asia,Misamis Oriental,Sioan,8.834907,125.210759
+2.01605E+11,2016,5,16,5/16/16 0:00,0,,60,Egypt,10,Middle East & North Africa,North Sinai,Gora,31.084594,34.147307
+2.01605E+11,2016,5,16,,0,,60,Egypt,10,Middle East & North Africa,North Sinai,Al-Shalaq,31.208071,34.067922
+2.01605E+11,2016,5,16,,0,6/25/10,147,Nigeria,11,Sub-Saharan Africa,Benue,Tse Atue,7.9055,8.737323
+2.01605E+11,2016,5,16,3/19/16 0:00,0,,92,India,6,South Asia,Chhattisgarh,Tadoki,19.954121,81.147355
+2.01605E+11,2016,5,16,,0,,200,Syria,10,Middle East & North Africa,Homs,Palmyra,34.554427,38.282841
+2.01605E+11,2016,5,16,5/16/16 0:00,1,,4,Afghanistan,6,South Asia,Faryab,Pashtun Kot district,35.598206,64.763659
+2.01605E+11,2016,5,16,3/19/16 0:00,0,,147,Nigeria,11,Sub-Saharan Africa,Bayelsa,Yenagoa,4.921162,6.274773
+2.01605E+11,2016,5,15,"May 1-31, 2016",0,7/26/83,43,Chile,3,South America,Araucania,Unknown,-38.948921,-72.331113
+2.01605E+11,2016,5,16,,0,7/26/83,209,Turkey,10,Middle East & North Africa,Hakkari,Oremar,37.40706,44.115763
+2.01605E+11,2016,5,17,,0,,4,Afghanistan,6,South Asia,Kabul,Kabul,34.528315,69.167246
+2.01605E+11,2016,5,17,,0,,153,Pakistan,6,South Asia,Balochistan,Tump,26.096947,62.365317
+2.01605E+11,2016,5,17,11/22/15 0:00,0,,95,Iraq,10,Middle East & North Africa,Baghdad,Baghdad,33.390503,44.462029
+2.01605E+11,2016,5,17,,0,,95,Iraq,10,Middle East & North Africa,Baghdad,Baghdad,33.390503,44.462029
+2.01605E+11,2016,5,17,,0,,95,Iraq,10,Middle East & North Africa,Baghdad,Baghdad,33.420618,44.399616
+2.01605E+11,2016,5,17,,0,6/12/70,95,Iraq,10,Middle East & North Africa,Baghdad,Baghdad,33.314435,44.506572
+2.01605E+11,2016,5,17,5/17/16 0:00,0,6/12/70,95,Iraq,10,Middle East & North Africa,Al Anbar,Abu Ghraib district,33.29711,44.066897
+2.01605E+11,2016,5,17,5/17/16 0:00,0,,95,Iraq,10,Middle East & North Africa,Al Anbar,Hit,33.643577,42.824707
+2.01605E+11,2016,5,17,,0,,95,Iraq,10,Middle East & North Africa,Kirkuk,Daquq district,35.085266,44.324777
+2.01605E+11,2016,5,17,5/17/16,0,,95,Iraq,10,Middle East & North Africa,Kirkuk,Kirkuk,35.465109,44.381403
+2.01605E+11,2016,5,17,,0,6/16/70,33,Burkina Faso,11,Sub-Saharan Africa,Sahel,Koutougou,14.666613,-1.010994
+2.01605E+11,2016,5,17,5/17/16 0:00,0,,228,Yemen,10,Middle East & North Africa,Adan,Aden,12.785831,45.019224
+2.01605E+11,2016,5,17,,0,,95,Iraq,10,Middle East & North Africa,Baghdad,Baghdad,33.257337,44.394566
+2.01605E+11,2016,5,17,,0,,95,Iraq,10,Middle East & North Africa,Baghdad,Baghdad,33.420618,44.399616
+2.01605E+11,2016,5,17,,0,,95,Iraq,10,Middle East & North Africa,Baghdad,Baghdad,33.361819,44.44058
+2.01605E+11,2016,5,17,,0,,4,Afghanistan,6,South Asia,Uruzgan,Deh Rahwod district,32.640755,65.570785
+2.01605E+11,2016,5,17,,0,,4,Afghanistan,6,South Asia,Kandahar,Shah Wali Kot district,32.074078,66.141526
+2.01605E+11,2016,5,17,,0,,4,Afghanistan,6,South Asia,Nimroz,Zaranj,30.960667,61.852639
+2.01605E+11,2016,5,17,,0,,4,Afghanistan,6,South Asia,Nimroz,Zaranj,30.960667,61.852639
+2.01605E+11,2016,5,17,3/20/16 0:00,0,,92,India,6,South Asia,Chhattisgarh,Rangareddy,18.79776,80.819957
+2.01605E+11,2016,5,17,5/17/16 0:00,0,,182,Somalia,11,Sub-Saharan Africa,Hiiraan,Bulobarde,3.855562,45.570019
+2.01605E+11,2016,5,17,3/20/16 0:00,0,11/26/07,160,Philippines,5,Southeast Asia,Bukidnon,Casisang,8.135081,125.137957
+2.01605E+11,2016,5,17,3/20/16 0:00,0,,205,Thailand,5,Southeast Asia,Yala,Bannang Sata district,6.265537,101.263082
+2.01605E+11,2016,5,16,,0,,60,Egypt,10,Middle East & North Africa,North Sinai,Arish,31.1323,33.802935
+2.01605E+11,2016,5,17,3/20/16 0:00,0,,92,India,6,South Asia,Jharkhand,Khunti,23.078666,85.277777
+2.01605E+11,2016,5,17,,0,,92,India,6,South Asia,Manipur,Imphal,24.80947,93.943233
+2.01605E+11,2016,5,17,12/2/13 0:00,0,,92,India,6,South Asia,Punjab,Ludhiana,30.900965,75.857276
+2.01605E+11,2016,5,17,,0,,147,Nigeria,11,Sub-Saharan Africa,Bayelsa,Egbembiri,4.700105,5.967528
+2.01605E+11,2016,5,17,,1,,4,Afghanistan,6,South Asia,Nangarhar,Jalalabad,34.419849,70.472943
+2.01605E+11,2016,5,17,,0,,92,India,6,South Asia,Manipur,Moreh,24.251085,94.300678
+2.01605E+11,2016,5,17,,0,,92,India,6,South Asia,Chhattisgarh,Bastar,19.205799,81.934448
+2.01605E+11,2016,5,17,,0,,153,Pakistan,6,South Asia,Khyber Pakhtunkhwa,Bannu,32.989724,70.603833
+2.01605E+11,2016,5,17,,0,,45,Colombia,3,South America,Arauca,Saravena district,6.956107,-71.872595
+2.01605E+11,2016,5,17,5/17/16 0:00,1,,229,Democratic Republic of the Congo,11,Sub-Saharan Africa,Haut-Katanga,Mitwaba,-8.64796,27.352538
+2.01605E+11,2016,5,17,,1,,213,Uganda,11,Sub-Saharan Africa,Northern,Boroborochu,3.469802,31.248329
+2.01605E+11,2016,5,17,12/3/13 0:00,1,,195,Sudan,11,Sub-Saharan Africa,West Darfur,Unknown,12.955936,22.863823
+2.01605E+11,2016,5,17,,0,,92,India,6,South Asia,Assam,Natun Chariali,26.434649,90.865887
+2.01605E+11,2016,5,17,5/17/16 0:00,0,,173,Saudi Arabia,10,Middle East & North Africa,Makkah,Jeddah,21.503571,39.179195
+2.01605E+11,2016,5,17,11/23/15 0:00,0,,153,Pakistan,6,South Asia,Balochistan,Awaran district,26.098269,65.475736
+2.01605E+11,2016,5,17,11/23/15 0:00,0,,95,Iraq,10,Middle East & North Africa,Babil,Yusufiyah,33.079162,44.252883
+2.01605E+11,2016,5,17,5/17/16 0:00,0,,95,Iraq,10,Middle East & North Africa,Baghdad,Baghdad,33.426772,44.434954
+2.01605E+11,2016,5,18,5/18/16 0:00,0,,95,Iraq,10,Middle East & North Africa,Baghdad,Baghdad,33.313263,44.360495
+2.01605E+11,2016,5,18,5/18/16 0:00,0,,95,Iraq,10,Middle East & North Africa,Diyala,Madain,33.099747,44.58149
+2.01605E+11,2016,5,18,11/23/15 0:00,0,,95,Iraq,10,Middle East & North Africa,Babil,Latifiyah,32.98499,44.35676
+2.01605E+11,2016,5,18,5/18/16 0:00,0,,95,Iraq,10,Middle East & North Africa,Diyala,Madain,33.100298,44.583139
+2.01605E+11,2016,5,18,5/18/16 0:00,0,4/4/08,95,Iraq,10,Middle East & North Africa,Baghdad,Baghdad,33.22809,44.436129
+2.01605E+11,2016,5,18,5/18/16 0:00,0,,95,Iraq,10,Middle East & North Africa,Al Anbar,Rutbah district,33.03639,40.283332
+2.01605E+11,2016,5,18,5/18/16 0:00,0,4/5/08,95,Iraq,10,Middle East & North Africa,Al Anbar,Rutbah district,33.03639,40.283332
+2.01605E+11,2016,5,18,5/18/16 0:00,0,,95,Iraq,10,Middle East & North Africa,Nineveh,Mosul,36.357064,43.163827
+2.01605E+11,2016,5,18,5/18/16 0:00,1,,95,Iraq,10,Middle East & North Africa,Nineveh,Mosul,36.357208,43.164511
+2.01605E+11,2016,5,18,5/18/16 0:00,0,,95,Iraq,10,Middle East & North Africa,Nineveh,Kasik,36.470669,42.670701
+2.01605E+11,2016,5,18,5/18/16 0:00,0,,95,Iraq,10,Middle East & North Africa,Nineveh,Mosul,36.356648,43.164
+2.01605E+11,2016,5,18,5/18/16 0:00,0,,95,Iraq,10,Middle East & North Africa,Diyala,Baqubah,33.750684,44.634932
+2.01605E+11,2016,5,18,,0,,153,Pakistan,6,South Asia,Khyber Pakhtunkhwa,Peshawar,34.014975,71.58049
+2.01605E+11,2016,5,18,,0,,153,Pakistan,6,South Asia,Khyber Pakhtunkhwa,Peshawar,34.014975,71.58049
+2.01605E+11,2016,5,18,3/21/16 0:00,0,8/27/83,123,Mali,11,Sub-Saharan Africa,Kidal,Aguelhoc,19.464084,0.85682
+2.01605E+11,2016,5,17,5/17/16 0:00,0,,113,Libya,10,Middle East & North Africa,Misrata,Abu Qurayn,31.454509,15.250769
+2.01605E+11,2016,5,16,11/23/15 0:00,0,,4,Afghanistan,6,South Asia,Paktika,Hasham,33.188524,68.736951
+2.01605E+11,2016,5,18,5/18/16 0:00,0,,228,Yemen,10,Middle East & North Africa,Taizz,Taizz,13.574255,44.008676
+2.01605E+11,2016,5,18,May-18,0,,228,Yemen,10,Middle East & North Africa,Taizz,Taizz,13.574698,44.010392
+2.01605E+11,2016,5,18,11/23/15 0:00,0,,160,Philippines,5,Southeast Asia,Negros Oriental,Guihulngan,10.116899,123.267249
+2.01605E+11,2016,5,18,11/23/15 0:00,0,,95,Iraq,10,Middle East & North Africa,Babil,Latifiyah,32.984894,44.356589
+2.01605E+11,2016,5,18,,0,,160,Philippines,5,Southeast Asia,Sulu,Jolo,6.053514,121.002363
+2.01605E+11,2016,5,18,5/18/16 0:00,0,,4,Afghanistan,6,South Asia,Nangarhar,Khogyani district,34.229906,70.19416
+2.01605E+11,2016,5,18,5/18/16 0:00,0,,4,Afghanistan,6,South Asia,Nangarhar,Bati Kot district,34.263149,70.78821
+2.01605E+11,2016,5,18,,1,,153,Pakistan,6,South Asia,Balochistan,Chattar,28.868333,68.334167
+2.01605E+11,2016,5,18,3/20/16 0:00,0,,153,Pakistan,6,South Asia,Balochistan,Kuchlak,30.362022,66.953007
+2.01605E+11,2016,5,18,,0,,209,Turkey,10,Middle East & North Africa,Hakkari,Semdinli district,37.268597,44.383699
+2.01605E+11,2016,5,18,3/21/16 0:00,0,,209,Turkey,10,Middle East & North Africa,Mardin,Nusaybin,37.078649,41.214885
+2.01605E+11,2016,5,18,3/21/16 0:00,0,,41,Central African Republic,11,Sub-Saharan Africa,Ouham,Kouki,7.168435,17.307566
+2.01605E+11,2016,5,18,,0,,4,Afghanistan,6,South Asia,Faryab,Almar district,35.857001,64.550338
+2.01605E+11,2016,5,18,,0,,603,United Kingdom,8,Western Europe,Northern Ireland,Rathfriland,54.238104,-6.161148
+2.01605E+11,2016,5,18,,0,,113,Libya,10,Middle East & North Africa,Sirte,Buairat el-Hassun,31.398875,15.72539
+2.01605E+11,2016,5,18,12/3/13 0:00,0,,113,Libya,10,Middle East & North Africa,Sirte,Sirte,31.206356,16.55326
+2.01605E+11,2016,5,18,,0,,60,Egypt,10,Middle East & North Africa,North Sinai,Arish,31.137257,33.794648
+2.01605E+11,2016,5,18,,0,,4,Afghanistan,6,South Asia,Kunar,Manogay,34.990784,70.912184
+2.01605E+11,2016,5,18,,0,6/30/10,4,Afghanistan,6,South Asia,Kunar,Manogay,34.990784,70.912184
+2.01605E+11,2016,5,18,3/22/16 0:00,0,,4,Afghanistan,6,South Asia,Kunar,Manogay,34.990784,70.912184
+2.01605E+11,2016,5,18,11/23/15 0:00,0,,209,Turkey,10,Middle East & North Africa,Mardin,Nusaybin,37.078649,41.214885
+2.01605E+11,2016,5,18,,0,,153,Pakistan,6,South Asia,Punjab,Lahore,31.571701,74.315854
+2.01605E+11,2016,5,18,,0,,110,Lebanon,10,Middle East & North Africa,North,Akkar district,34.544034,36.07983
+2.01605E+11,2016,5,18,3/22/16 0:00,0,,14,Australia,12,Australasia & Oceania,Victoria,Geelong,-38.133743,144.333937
+2.01605E+11,2016,5,18,,0,,92,India,6,South Asia,Chhattisgarh,Narayanpur district,19.725756,81.233632
+2.01605E+11,2016,5,18,5/18/16 0:00,0,,182,Somalia,11,Sub-Saharan Africa,Lower Juba,Hosingow,-0.173119,41.269563
+2.01605E+11,2016,5,18,3/22/16 0:00,0,,153,Pakistan,6,South Asia,Khyber Pakhtunkhwa,Naurang,32.738213,70.752667
+2.01605E+11,2016,5,18,3/22/16 0:00,1,,4,Afghanistan,6,South Asia,Herat,Kort Shumali Khan,34.203824,62.222928
+2.01605E+11,2016,5,18,3/22/16 0:00,0,7/22/70,4,Afghanistan,6,South Asia,Herat,Shindand,33.304566,62.155956
+2.01605E+11,2016,5,18,,0,,4,Afghanistan,6,South Asia,Logar,Ali Khan Qala,33.962718,69.025995
+2.01605E+11,2016,5,18,3/22/16 0:00,0,,113,Libya,10,Middle East & North Africa,Sirte,Unknown,31.189689,16.570193
+2.01605E+11,2016,5,18,,0,,113,Libya,10,Middle East & North Africa,Sirte,Abu Najim,30.57842,15.396396
+2.01605E+11,2016,5,19,,0,,4,Afghanistan,6,South Asia,Zabul,Qalat,32.113148,66.902552
+2.01605E+11,2016,5,19,,0,,4,Afghanistan,6,South Asia,Baghlan,Qaysar Khel,36.162279,68.686844
+2.01605E+11,2016,5,19,3/22/16 0:00,0,4/7/08,4,Afghanistan,6,South Asia,Kandahar,Gondlan,31.866767,65.871064
+2.01605E+11,2016,5,19,3/22/16 0:00,0,7/24/70,113,Libya,10,Middle East & North Africa,Benghazi,Benghazi,32.031245,20.06331
+2.01605E+11,2016,5,19,3/22/16 0:00,0,,153,Pakistan,6,South Asia,Balochistan,Quetta,30.11915,66.997476
+2.01605E+11,2016,5,19,3/22/16 0:00,0,,203,Tanzania,11,Sub-Saharan Africa,Mwanza,Unknown,-2.522078,32.901973
+2.01605E+11,2016,5,18,5/18/16 0:00,0,,4,Afghanistan,6,South Asia,Farah,Farah,32.368237,62.110157
+2.01605E+11,2016,5,17,3/22/16 0:00,0,,4,Afghanistan,6,South Asia,Balkh,Shash Paikal,36.74643,66.523303
+2.01605E+11,2016,5,18,3/22/16 0:00,0,,153,Pakistan,6,South Asia,Khyber Pakhtunkhwa,Paroa,31.55509,70.760696
+2.01605E+11,2016,5,19,5/19/16 0:00,0,,95,Iraq,10,Middle East & North Africa,Baghdad,Baghdad,33.387719,44.363154
+2.01605E+11,2016,5,19,3/22/16 0:00,0,,95,Iraq,10,Middle East & North Africa,Babil,Mahmudiyah,33.054977,44.352032
+2.01605E+11,2016,5,19,3/22/16 0:00,0,,95,Iraq,10,Middle East & North Africa,Saladin,Taji,33.537369,44.261674
+2.01605E+11,2016,5,19,3/22/16 0:00,0,,95,Iraq,10,Middle East & North Africa,Diyala,Baqubah,33.748805,44.632719
+2.01605E+11,2016,5,19,5/19/16 0:00,0,,95,Iraq,10,Middle East & North Africa,Kirkuk,Bashir,35.242938,44.273643
+2.01605E+11,2016,5,19,5/19/16 0:00,0,8/4/70,95,Iraq,10,Middle East & North Africa,Baghdad,Baghdad,33.41129,44.432941
+2.01605E+11,2016,5,19,3/22/16 0:00,0,,92,India,6,South Asia,Manipur,Thoubal district,24.543551,93.967437
+2.01605E+11,2016,5,19,5/19/16 0:00,0,,228,Yemen,10,Middle East & North Africa,Hadramawt,Mukalla,14.540598,49.127083
+2.01605E+11,2016,5,19,3/22/16 0:00,0,,95,Iraq,10,Middle East & North Africa,Baghdad,Baghdad,33.222612,44.433447
+2.01605E+11,2016,5,19,3/22/16 0:00,0,,95,Iraq,10,Middle East & North Africa,Nineveh,Mosul,36.356648,43.164
+2.01605E+11,2016,5,19,3/22/16 0:00,0,8/6/70,4,Afghanistan,6,South Asia,Faryab,Maymana,35.91784,64.775515
+2.01605E+11,2016,5,19,5/19/16 0:00,0,2/21/71,4,Afghanistan,6,South Asia,Ghazni,Ab Band district,32.983333,67.966667
+2.01605E+11,2016,5,19,5/19/16 0:00,0,8/10/70,4,Afghanistan,6,South Asia,Ghazni,Khogyani,32.983333,67.966667
+2.01605E+11,2016,5,19,5/19/16 0:00,0,,4,Afghanistan,6,South Asia,Herat,Shindand district,33.307049,62.136421
+2.01605E+11,2016,5,19,,1,,123,Mali,11,Sub-Saharan Africa,Gao,Menaka,15.916172,2.396679
+2.01605E+11,2016,5,19,,0,,161,Poland,9,Eastern Europe,Lower Silesia,Wroclaw,51.10908,17.034502
+2.01605E+11,2016,5,19,12/4/13 0:00,0,,209,Turkey,10,Middle East & North Africa,Mardin,Nusaybin,37.088124,41.223745
+2.01605E+11,2016,5,19,12/4/13 0:00,0,,182,Somalia,11,Sub-Saharan Africa,Banaadir,Mogadishu,2.049125,45.329901
+2.01605E+11,2016,5,19,12/4/13 0:00,0,,92,India,6,South Asia,Jharkhand,Kokpara,22.451384,86.589276
+2.01605E+11,2016,5,19,11/24/15 0:00,0,,160,Philippines,5,Southeast Asia,Bulacan,Alagao,15.049423,121.045185
+2.01605E+11,2016,5,19,,1,,195,Sudan,11,Sub-Saharan Africa,South Darfur,Shanga,11.228326,25.137076
+2.01605E+11,2016,5,19,,0,,209,Turkey,10,Middle East & North Africa,Hakkari,Semdinli district,37.305965,44.57082
+2.01605E+11,2016,5,19,12/4/13 0:00,0,,209,Turkey,10,Middle East & North Africa,Diyarbakir,Unknown,37.924973,40.210983
+2.01605E+11,2016,5,19,,0,,137,Mozambique,11,Sub-Saharan Africa,Zambezia,Longoze,-17.97391,35.713385
+2.01605E+11,2016,5,18,11/24/15 0:00,0,,4,Afghanistan,6,South Asia,Logar,Juma Qala,34.01973,69.002379
+2.01605E+11,2016,5,19,,1,,92,India,6,South Asia,Bihar,Pupri,26.470108,85.697531
+2.01605E+11,2016,5,19,,0,,113,Libya,10,Middle East & North Africa,Sirte,Unknown,31.189689,16.570193
+2.01605E+11,2016,5,19,5/19/16 0:00,0,,113,Libya,10,Middle East & North Africa,Sirte,Sirte,31.201197,16.588532
+2.01605E+11,2016,5,19,5/19/16 0:00,0,,113,Libya,10,Middle East & North Africa,Sirte,Sirte,31.203939,16.58757
+2.01605E+11,2016,5,19,,0,4/9/08,78,Greece,8,Western Europe,Unknown,Unknown,33.6757,28.7924
+2.01605E+11,2016,5,20,5/20/16 0:00,0,7/11/10,95,Iraq,10,Middle East & North Africa,Al Anbar,Radhwaniyah,33.250527,44.270767
+2.01605E+11,2016,5,20,,0,,95,Iraq,10,Middle East & North Africa,Diyala,Husseiniyah,33.547658,44.412022
+2.01605E+11,2016,5,20,5/20/16 0:00,0,,95,Iraq,10,Middle East & North Africa,Diyala,Bawi,33.106012,44.564298
+2.01605E+11,2016,5,20,,1,,95,Iraq,10,Middle East & North Africa,Nineveh,Mosul,36.3464,43.148299
+2.01605E+11,2016,5,20,,0,,4,Afghanistan,6,South Asia,Kabul,Kabul,34.534191,69.176175
+2.01605E+11,2016,5,20,,1,7/5/10,195,Sudan,11,Sub-Saharan Africa,North Darfur,El Rayyan,13.648446,24.07967
+2.01605E+11,2016,5,20,,0,,195,Sudan,11,Sub-Saharan Africa,North Darfur,Tawilah,13.514231,24.86034
+2.01605E+11,2016,5,20,Apr-18,0,,195,Sudan,11,Sub-Saharan Africa,North Darfur,Kutum district,14.209671,24.659645
+2.01605E+11,2016,5,20,3/22/16 0:00,0,,153,Pakistan,6,South Asia,Khyber Pakhtunkhwa,Peshawar,34.014975,71.58049
+2.01605E+11,2016,5,20,,0,,146,Niger,11,Sub-Saharan Africa,Diffa,Bosso,13.700184,13.310463
+2.01605E+11,2016,5,19,5/19/16 0:00,0,,4,Afghanistan,6,South Asia,Jawzjan,Almalak,36.960671,66.227957
+2.01605E+11,2016,5,19,,0,,4,Afghanistan,6,South Asia,Faryab,Shirin Tagab district,36.22994,64.865082
+2.01605E+11,2016,5,20,,0,,92,India,6,South Asia,Jharkhand,Ghaghra,23.482927,84.446456
+2.01605E+11,2016,5,20,,0,,4,Afghanistan,6,South Asia,Jawzjan,Shibirghan,36.681715,65.749062
+2.01605E+11,2016,5,20,,0,,4,Afghanistan,6,South Asia,Kabul,Paghman district,34.591625,68.956999
+2.01605E+11,2016,5,20,,0,,19,Bangladesh,6,South Asia,Khulna,Kushtia,23.898783,89.124962
+2.01605E+11,2016,5,20,,0,,209,Turkey,10,Middle East & North Africa,Mardin,Baglica,37.526388,40.686077
+2.01605E+11,2016,5,20,,0,,209,Turkey,10,Middle East & North Africa,Mardin,Mardin,37.318761,40.718147
+2.01605E+11,2016,5,13,,0,1/18/84,147,Nigeria,11,Sub-Saharan Africa,Benue,Agwabi,7.487471,9.236722
+2.01605E+11,2016,5,20,,0,,147,Nigeria,11,Sub-Saharan Africa,Benue,Makurdi,7.732152,8.539144
+2.01605E+11,2016,5,20,3/23/16 0:00,1,,147,Nigeria,11,Sub-Saharan Africa,Kogi,Ajaokuta district,7.56272,6.634116
+2.01605E+11,2016,5,20,3/23/16 0:00,0,,147,Nigeria,11,Sub-Saharan Africa,Ekiti,Oke-Ako,7.950747,5.545281
+2.01605E+11,2016,5,20,3/23/16 0:00,0,,147,Nigeria,11,Sub-Saharan Africa,Delta,Ogbe Ijoh,5.602691,5.458779
+2.01605E+11,2016,5,20,3/23/16 0:00,0,,147,Nigeria,11,Sub-Saharan Africa,Borno,Maiduguri,11.831098,13.150967
+2.01605E+11,2016,5,20,3/23/16 0:00,0,,92,India,6,South Asia,Chhattisgarh,Gadiras,18.505896,81.554158
+2.01605E+11,2016,5,20,3/23/16 0:00,0,,153,Pakistan,6,South Asia,Sindh,Karachi,24.839878,67.191098
+2.01605E+11,2016,5,20,5/20/16 0:00,0,,92,India,6,South Asia,Jharkhand,Bishnugarh,24.016958,85.753847
+2.01605E+11,2016,5,20,,0,9/8/70,153,Pakistan,6,South Asia,Khyber Pakhtunkhwa,Peshawar,34.014975,71.58049
+2.01605E+11,2016,5,21,3/23/16 0:00,0,,95,Iraq,10,Middle East & North Africa,Saladin,Tarmiyah,33.664393,44.37356
+2.01605E+11,2016,5,21,,0,,95,Iraq,10,Middle East & North Africa,Baghdad,Baghdad,33.212211,44.39503
+2.01605E+11,2016,5,21,3/23/16 0:00,0,,95,Iraq,10,Middle East & North Africa,Diyala,Madain,33.099772,44.582454
+2.01605E+11,2016,5,21,,0,,95,Iraq,10,Middle East & North Africa,Diyala,Nahrawan,33.376952,44.70296
+2.01605E+11,2016,5,21,11/26/15 0:00,0,,95,Iraq,10,Middle East & North Africa,Saladin,Dujail,33.840654,44.2457
+2.01605E+11,2016,5,21,5/21/16 0:00,0,,95,Iraq,10,Middle East & North Africa,Saladin,Shirqat,35.495991,43.242812
+2.01605E+11,2016,5,21,12/5/13 0:00,0,,4,Afghanistan,6,South Asia,Parwan,Nasro Qala,34.907552,69.20928
+2.01605E+11,2016,5,21,,0,,4,Afghanistan,6,South Asia,Uruzgan,Sachar,32.955305,65.537483
+2.01605E+11,2016,5,21,,0,4/10/08,113,Libya,10,Middle East & North Africa,Misrata,Abu Qurayn,31.454509,15.250769
+2.01605E+11,2016,5,21,12/6/13 0:00,1,,113,Libya,10,Middle East & North Africa,Sirte,Sirte,31.20456,16.589369
+2.01605E+11,2016,5,21,11/26/15 0:00,0,,153,Pakistan,6,South Asia,Sindh,Karachi,24.921273,67.071387
+2.01605E+11,2016,5,21,,1,,153,Pakistan,6,South Asia,Balochistan,Pishin,30.584213,66.995823
+2.01605E+11,2016,5,21,,1,,153,Pakistan,6,South Asia,Balochistan,Sohbatpur district,28.51882,68.541111
+2.01605E+11,2016,5,21,5/21/16 0:00,1,,195,Sudan,11,Sub-Saharan Africa,Sennar,Abu Hajar,12.852482,33.987797
+2.01605E+11,2016,5,20,,0,9/12/70,4,Afghanistan,6,South Asia,Kabul,Kabul,34.534672,69.173195
+2.01605E+11,2016,5,21,5/21/16 0:00,0,9/12/70,4,Afghanistan,6,South Asia,Sari Pul,Sozma Qala district,36.089093,66.236743
+2.01605E+11,2016,5,21,11/26/15 0:00,0,9/7/70,95,Iraq,10,Middle East & North Africa,Al Anbar,Fallujah,33.35,43.783331
+2.01605E+11,2016,5,21,5/21/16 0:00,0,,229,Democratic Republic of the Congo,11,Sub-Saharan Africa,Ituri,Etabe,1.046619,29.092653
+2.01605E+11,2016,5,21,3/24/16 0:00,0,,60,Egypt,10,Middle East & North Africa,North Sinai,Arish,31.137257,33.794648
+2.01605E+11,2016,5,21,3/24/16 0:00,0,,92,India,6,South Asia,Chhattisgarh,Cherli,18.845263,81.159827
+2.01605E+11,2016,5,21,3/24/16 0:00,0,,92,India,6,South Asia,Chhattisgarh,Mirtur,18.875544,81.15177
+2.01605E+11,2016,5,21,3/24/16 0:00,0,,92,India,6,South Asia,Jharkhand,Jerko Musanga,23.07976,85.279323
+2.01605E+11,2016,5,21,,0,,155,West Bank and Gaza Strip,10,Middle East & North Africa,West Bank,Tekoa,31.652785,35.227517
+2.01605E+11,2016,5,21,,0,8/22/83,60,Egypt,10,Middle East & North Africa,North Sinai,Sheikh Zuweid,31.212501,34.118835
+2.01605E+11,2016,5,21,5/21/16 0:00,0,,153,Pakistan,6,South Asia,Khyber Pakhtunkhwa,Achini,33.959693,71.463915
+2.01605E+11,2016,5,21,,0,7/11/10,4,Afghanistan,6,South Asia,Farah,Tapa-i-Khwaharan,31.828782,61.233559
+2.01605E+11,2016,5,21,,0,,92,India,6,South Asia,Jharkhand,Dumka district,24.285466,87.242168
+2.01605E+11,2016,5,21,,0,,153,Pakistan,6,South Asia,Federally Administered Tribal Areas,Laghari,34.812696,71.345751
+2.01605E+11,2016,5,21,,0,,110,Lebanon,10,Middle East & North Africa,South,Ain al-Hilweh,33.543539,35.378036
+2.01605E+11,2016,5,21,5/21/16 0:00,0,,153,Pakistan,6,South Asia,Khyber Pakhtunkhwa,Mama Khel,32.852807,70.780551
+2.01605E+11,2016,5,21,,0,,160,Philippines,5,Southeast Asia,Misamis Occidental,Clarin,8.205395,123.802652
+2.01605E+11,2016,5,21,,0,,209,Turkey,10,Middle East & North Africa,Diyarbakir,Yenisehir district,37.928348,40.225487
+2.01605E+11,2016,5,21,,0,,4,Afghanistan,6,South Asia,Kandahar,Aino Mina,31.646697,65.773123
+2.01605E+11,2016,5,21,,0,,153,Pakistan,6,South Asia,Khyber Pakhtunkhwa,Swabi district,34.144223,72.378468
+2.01605E+11,2016,5,22,,0,,95,Iraq,10,Middle East & North Africa,Babil,Yusufiyah,33.079162,44.252883
+2.01605E+11,2016,5,22,5/22/16 0:00,0,,95,Iraq,10,Middle East & North Africa,Al Anbar,Hadithah,34.125182,42.369597
+2.01605E+11,2016,5,20,12/6/13 0:00,0,,4,Afghanistan,6,South Asia,Kunduz,Qalay-i-Zal district,36.888175,68.429321
+2.01605E+11,2016,5,21,,0,,153,Pakistan,6,South Asia,Federally Administered Tribal Areas,Nawagai,34.663583,71.291407
+2.01605E+11,2016,5,22,3/24/16 0:00,0,,173,Saudi Arabia,10,Middle East & North Africa,Unknown,Unknown,36.82326,66.457106
+2.01605E+11,2016,5,22,,0,,92,India,6,South Asia,Manipur,Joupi,24.078081,94.019729
+2.01605E+11,2016,5,22,,0,,160,Philippines,5,Southeast Asia,Negros Occidental,Aliwanay,10.878378,123.408287
+2.01605E+11,2016,5,22,11/27/15 0:00,0,,95,Iraq,10,Middle East & North Africa,Kirkuk,Taza Khurmatu,35.299472,44.328386
+2.01605E+11,2016,5,21,,1,,45,Colombia,3,South America,Norte de Santander,El Tarra,8.576,-73.094867
+2.01605E+11,2016,5,22,12/7/13 0:00,0,,4,Afghanistan,6,South Asia,Herat,Herat,34.352865,62.204029
+2.01605E+11,2016,5,22,5/22/16 0:00,0,,95,Iraq,10,Middle East & North Africa,Al Anbar,Rutbah,33.036367,40.283366
+2.01605E+11,2016,5,21,12/7/13 0:00,0,,182,Somalia,11,Sub-Saharan Africa,Middle Shebelle,Jowhar,2.777423,45.501625
+2.01605E+11,2016,5,22,12/7/13 0:00,0,,123,Mali,11,Sub-Saharan Africa,Mopti,Unknown,14.676896,-4.727661
+2.01605E+11,2016,5,22,,0,,123,Mali,11,Sub-Saharan Africa,Timbuktu,Goundam,16.417558,-3.664576
+2.01605E+11,2016,5,22,,0,12/3/70,603,United Kingdom,8,Western Europe,Northern Ireland,Carrickfergus,54.729019,-5.808628
+2.01605E+11,2016,5,22,5/22/16 0:00,0,,92,India,6,South Asia,Jharkhand,Latehar district,23.755579,84.354205
+2.01605E+11,2016,5,22,,0,,147,Nigeria,11,Sub-Saharan Africa,Bayelsa,Ikembiri,4.706546,5.997516
+2.01605E+11,2016,5,21,,0,8/25/83,200,Syria,10,Middle East & North Africa,Al Hasakah,Qamishli,37.055532,41.226239
+2.01605E+11,2016,5,21,,0,,200,Syria,10,Middle East & North Africa,Al Hasakah,Qamishli,37.055532,41.226239
+2.01605E+11,2016,5,21,,0,,200,Syria,10,Middle East & North Africa,Al Hasakah,Tall Tamr,36.656162,40.366428
+2.01605E+11,2016,5,22,5/22/16 0:00,0,,95,Iraq,10,Middle East & North Africa,Diyala,Rashidiyah,33.55368,44.375965
+2.01605E+11,2016,5,22,5/22/16 0:00,0,,95,Iraq,10,Middle East & North Africa,Nineveh,Mosul,36.356648,43.164
+2.01605E+11,2016,5,22,,0,,160,Philippines,5,Southeast Asia,Nueva Ecija,San Nicolas,15.304144,120.932707
+2.01605E+11,2016,5,22,11/27/15 0:00,0,,92,India,6,South Asia,Bihar,Gaya,24.795452,84.999431
+2.01605E+11,2016,5,22,,0,,60,Egypt,10,Middle East & North Africa,North Sinai,Sheikh Zuweid,31.204927,34.106384
+2.01605E+11,2016,5,22,,0,,209,Turkey,10,Middle East & North Africa,Igdir,Unknown,39.92006,44.043615
+2.01605E+11,2016,5,22,,0,7/11/10,153,Pakistan,6,South Asia,Balochistan,Nushki,29.555805,66.019589
+2.01605E+11,2016,5,22,,0,,138,Myanmar,5,Southeast Asia,Kachin,Hpakant,25.612702,96.312496
+2.01605E+11,2016,5,23,,0,,228,Yemen,10,Middle East & North Africa,Adan,Aden,12.832175,45.028811
+2.01605E+11,2016,5,23,,0,,228,Yemen,10,Middle East & North Africa,Adan,Aden,12.832175,45.028811
+2.01605E+11,2016,5,23,,0,,200,Syria,10,Middle East & North Africa,Tartus,Tartus,34.896112,35.886553
+2.01605E+11,2016,5,23,3/25/16 0:00,0,,200,Syria,10,Middle East & North Africa,Lattakia,Jableh,35.368795,35.920655
+2.01605E+11,2016,5,23,,0,,200,Syria,10,Middle East & North Africa,Lattakia,Jableh,35.368795,35.920655
+2.01605E+11,2016,5,23,3/25/16 0:00,0,,200,Syria,10,Middle East & North Africa,Lattakia,Jableh,35.368795,35.920655
+2.01605E+11,2016,5,23,,0,,200,Syria,10,Middle East & North Africa,Tartus,Tartus,34.896351,35.886443
+2.01605E+11,2016,5,23,5/23/16 0:00,0,,113,Libya,10,Middle East & North Africa,Sirte,Sirte,31.203247,16.589369
+2.01605E+11,2016,5,23,,0,,92,India,6,South Asia,Jammu and Kashmir,Srinagar,34.110815,74.802648
+2.01605E+11,2016,5,23,,0,,92,India,6,South Asia,Jammu and Kashmir,Srinagar,34.056402,74.787044
+2.01605E+11,2016,5,23,12/8/13 0:00,0,,182,Somalia,11,Sub-Saharan Africa,Banaadir,Mogadishu,2.042886,45.30408
+2.01605E+11,2016,5,23,,0,,160,Philippines,5,Southeast Asia,Sultan Kudarat,Datal Blao,6.583669,124.98903
+2.01605E+11,2016,5,23,,1,,45,Colombia,3,South America,Norte de Santander,El Tarra,8.576,-73.094867
+2.01605E+11,2016,5,23,,0,,95,Iraq,10,Middle East & North Africa,Baghdad,Baghdad,33.312248,44.353398
+2.01605E+11,2016,5,23,,0,,95,Iraq,10,Middle East & North Africa,Baghdad,Baghdad,33.291284,44.391619
+2.01605E+11,2016,5,23,,0,12/16/07,182,Somalia,11,Sub-Saharan Africa,Banaadir,Mogadishu,2.027701,45.275927
+2.01605E+11,2016,5,23,5/23/16 0:00,0,,95,Iraq,10,Middle East & North Africa,Baghdad,Baghdad,33.380262,44.536817
+2.01605E+11,2016,5,23,11/28/15 0:00,0,,229,Democratic Republic of the Congo,11,Sub-Saharan Africa,South Kivu,Lumbishi,-2.08904,28.904821
+2.01605E+11,2016,5,23,,0,,229,Democratic Republic of the Congo,11,Sub-Saharan Africa,South Kivu,Tushunguti,-1.805474,28.751867
+2.01605E+11,2016,5,23,,0,,153,Pakistan,6,South Asia,Khyber Pakhtunkhwa,Charsadda,34.149433,71.742781
+2.01605E+11,2016,5,21,,0,,92,India,6,South Asia,Bihar,Chakai,24.555765,86.396423
+2.01605E+11,2016,5,23,,0,,155,West Bank and Gaza Strip,10,Middle East & North Africa,West Bank,Givon HaHadasha,31.848896,35.159029
+2.01605E+11,2016,5,23,,0,,4,Afghanistan,6,South Asia,Herat,Shindand district,33.308757,62.150484
+2.01605E+11,2016,5,23,,0,,4,Afghanistan,6,South Asia,Herat,Shindand district,33.307049,62.136421
+2.01605E+11,2016,5,23,,0,,161,Poland,9,Eastern Europe,Masovia,Warsaw,52.179907,20.948376
+2.01605E+11,2016,5,23,5/23/16 0:00,1,,4,Afghanistan,6,South Asia,Sari Pul,Sozma Qala district,36.089093,66.236743
+2.01605E+11,2016,5,23,,0,,153,Pakistan,6,South Asia,Khyber Pakhtunkhwa,Bara Bandai,34.824498,72.394744
+2.01605E+11,2016,5,23,,0,,153,Pakistan,6,South Asia,Khyber Pakhtunkhwa,Jehangira,33.964155,72.218613
+2.01605E+11,2016,5,23,5/23/16 0:00,0,,173,Saudi Arabia,10,Middle East & North Africa,Jazan,Unknown,16.889379,42.570553
+2.01605E+11,2016,5,23,5/23/16 0:00,1,,95,Iraq,10,Middle East & North Africa,Nineveh,Mosul,36.295336,43.200279
+2.01605E+11,2016,5,23,5/23/16 0:00,1,,95,Iraq,10,Middle East & North Africa,Nineveh,Mosul,36.380376,43.130608
+2.01605E+11,2016,5,23,5/23/16 0:00,1,,95,Iraq,10,Middle East & North Africa,Nineveh,Mosul,36.353294,43.215214
+2.01605E+11,2016,5,23,3/26/16 0:00,0,,92,India,6,South Asia,Jammu and Kashmir,Baramulla,34.19905,74.34995
+2.01605E+11,2016,5,23,5/23/16 0:00,0,,209,Turkey,10,Middle East & North Africa,Mardin,Nusaybin district,37.078792,41.215599
+2.01605E+11,2016,5,23,12/8/13 0:00,0,7/14/10,137,Mozambique,11,Sub-Saharan Africa,Sofala,Pinda,-20.707719,34.790596
+2.01605E+11,2016,5,23,12/8/13 0:00,0,,137,Mozambique,11,Sub-Saharan Africa,Sofala,Caia,-17.825174,35.335989
+2.01605E+11,2016,5,23,12/8/13 0:00,0,,153,Pakistan,6,South Asia,Balochistan,Quetta,30.182971,66.998734
+2.01605E+11,2016,5,23,,0,12/24/07,153,Pakistan,6,South Asia,Federally Administered Tribal Areas,Khyber district,34.021103,71.287421
+2.01605E+11,2016,5,23,,0,7/13/10,98,Italy,8,Western Europe,Marche,Campiglione,43.175693,13.666191
+2.01605E+11,2016,5,23,,0,,19,Bangladesh,6,South Asia,Khulna,Kundasi,23.179167,89.656111
+2.01605E+11,2016,5,23,,0,,200,Syria,10,Middle East & North Africa,Tartus,Tartus,34.896351,35.886443
+2.01605E+11,2016,5,24,12/8/13 0:00,0,,95,Iraq,10,Middle East & North Africa,Al Anbar,Karma,33.401723,43.912857
+2.01605E+11,2016,5,24,12/8/13 0:00,0,,228,Yemen,10,Middle East & North Africa,Amanat Al Asimah,Sanaa,15.371169,44.191525
+2.01605E+11,2016,5,24,3/27/16 0:00,0,,167,Russia,9,Eastern Europe,Dagestan,Shamilskiy district,42.418055,46.495558
+2.01605E+11,2016,5,24,3/27/16 0:00,0,7/13/10,167,Russia,9,Eastern Europe,Dagestan,Shamilskiy district,42.418055,46.495558
+2.01605E+11,2016,5,24,,0,,209,Turkey,10,Middle East & North Africa,Van,Caldiran district,39.142,43.914
+2.01605E+11,2016,5,24,,0,,209,Turkey,10,Middle East & North Africa,Van,Unknown,38.501209,43.372979
+2.01605E+11,2016,5,24,,0,,153,Pakistan,6,South Asia,Balochistan,Parom,26.633589,63.338032
+2.01605E+11,2016,5,24,,0,,153,Pakistan,6,South Asia,Balochistan,Quetta,30.182971,66.998734
+2.01605E+11,2016,5,24,3/27/16 0:00,1,,153,Pakistan,6,South Asia,Balochistan,Shahrag,30.194985,67.709443
+2.01605E+11,2016,5,24,,0,,4,Afghanistan,6,South Asia,Khost,Alisher,33.45184,70.084686
+2.01605E+11,2016,5,24,3/27/16,0,,4,Afghanistan,6,South Asia,Kandahar,Unknown,31.802901,65.948879
+2.01605E+11,2016,5,24,5/24/16 0:00,0,,95,Iraq,10,Middle East & North Africa,Baghdad,Baghdad,33.321917,44.48659
+2.01605E+11,2016,5,24,3/27/16 0:00,0,,95,Iraq,10,Middle East & North Africa,Baghdad,Baghdad,33.297103,44.291482
+2.01605E+11,2016,5,24,,0,,95,Iraq,10,Middle East & North Africa,Babil,Mahmudiyah,33.054738,44.351118
+2.01605E+11,2016,5,24,,0,,95,Iraq,10,Middle East & North Africa,Al Anbar,Unknown,33.350259,43.937214
+2.01605E+11,2016,5,24,,0,,160,Philippines,5,Southeast Asia,Compostela Valley,Palo,7.254917,126.154399
+2.01605E+11,2016,5,24,,0,,95,Iraq,10,Middle East & North Africa,Baghdad,Baghdad,33.251332,44.507785
+2.01605E+11,2016,5,24,,0,,95,Iraq,10,Middle East & North Africa,Al Anbar,Saqlawiyah,33.39661,43.681672
+2.01605E+11,2016,5,24,,0,,95,Iraq,10,Middle East & North Africa,Al Anbar,Saqlawiyah,33.39661,43.681672
+2.01605E+11,2016,5,24,,1,,95,Iraq,10,Middle East & North Africa,Diyala,Muqdadiyah,33.948078,44.914448
+2.01605E+11,2016,5,24,5/24/16 0:00,1,,182,Somalia,11,Sub-Saharan Africa,Gedo,Unknown,3.503923,42.236244
+2.01605E+11,2016,5,24,,0,,182,Somalia,11,Sub-Saharan Africa,Lower Juba,Hawina,0.276692,41.259256
+2.01605E+11,2016,5,24,5/24/16 0:00,0,,95,Iraq,10,Middle East & North Africa,Baghdad,Baghdad,33.22809,44.436129
+2.01605E+11,2016,5,24,5/24/16 0:00,0,,4,Afghanistan,6,South Asia,Uruzgan,Unknown,32.904956,66.139769
+2.01605E+11,2016,5,24,5/24/16 0:00,0,,4,Afghanistan,6,South Asia,Zabul,Unknown,32.174693,67.182896
+2.01605E+11,2016,5,24,,0,,92,India,6,South Asia,West Bengal,Kolkata,22.449504,88.391116
+2.01605E+11,2016,5,24,3/27/16 0:00,1,,4,Afghanistan,6,South Asia,Baghlan,Unknown,35.804295,69.287754
+2.01605E+11,2016,5,24,5/24/16 0:00,0,,4,Afghanistan,6,South Asia,Herat,Tagab,34.829503,61.33044
+2.01605E+11,2016,5,24,5/24/16 0:00,0,,4,Afghanistan,6,South Asia,Herat,Unknown,34.352865,62.204029
+2.01605E+11,2016,5,24,,0,,60,Egypt,10,Middle East & North Africa,North Sinai,Sheikh Zuweid,31.212501,34.118835
+2.01605E+11,2016,5,24,12/10/13 0:00,0,,60,Egypt,10,Middle East & North Africa,North Sinai,Al-Birth,30.992432,34.251802
+2.01605E+11,2016,5,24,5/24/16 0:00,0,,4,Afghanistan,6,South Asia,Faryab,Qala-e Eshan,35.643007,65.116119
+2.01605E+11,2016,5,24,5/24/16 0:00,0,,4,Afghanistan,6,South Asia,Faryab,Ghormach district,35.722136,63.788399
+2.01605E+11,2016,5,24,11/30/15 0:00,0,,147,Nigeria,11,Sub-Saharan Africa,Borno,Gurkolle I,11.897469,13.291166
+2.01605E+11,2016,5,24,11/30/15 0:00,0,12/24/70,147,Nigeria,11,Sub-Saharan Africa,Borno,Gurkolle II,11.897469,13.291166
+2.01605E+11,2016,5,24,11/30/15 0:00,0,,147,Nigeria,11,Sub-Saharan Africa,Borno,Jajeri,11.906349,13.289779
+2.01605E+11,2016,5,24,3/27/16 0:00,0,7/15/10,147,Nigeria,11,Sub-Saharan Africa,Borno,Jatori,11.906349,13.289779
+2.01605E+11,2016,5,24,11/30/15 0:00,0,,147,Nigeria,11,Sub-Saharan Africa,Borno,Ladi Mbutaye,11.921838,13.60436
+2.01605E+11,2016,5,24,3/28/16 0:00,0,1/19/71,182,Somalia,11,Sub-Saharan Africa,Gedo,Ceel Waaq,2.793143,41.012222
+2.01605E+11,2016,5,26,5/26/16 0:00,0,,182,Somalia,11,Sub-Saharan Africa,Gedo,Anole,2.013889,42.315
+2.01605E+11,2016,5,24,,0,,110,Lebanon,10,Middle East & North Africa,Beqaa,Unknown,34.007509,36.142378
+2.01605E+11,2016,5,24,,0,,209,Turkey,10,Middle East & North Africa,Sirnak,Silopi district,37.2487,42.4713
+2.01605E+11,2016,5,24,3/28/16 0:00,0,,153,Pakistan,6,South Asia,Khyber Pakhtunkhwa,Sangota,34.79413,72.410001
+2.01605E+11,2016,5,24,5/24/16 0:00,0,,200,Syria,10,Middle East & North Africa,Idlib,Fuah,35.981934,36.70582
+2.01605E+11,2016,5,24,5/24/16 0:00,0,,200,Syria,10,Middle East & North Africa,Idlib,Kafrayah,35.990733,36.679154
+2.01605E+11,2016,5,24,11/30/15 0:00,1,,214,Ukraine,9,Eastern Europe,Crimea,Bakhchysarai,44.746091,33.861564
+2.01605E+11,2016,5,25,5/25/16 0:00,0,,95,Iraq,10,Middle East & North Africa,Saladin,Baiji district,34.720554,42.702378
+2.01605E+11,2016,5,25,11/30/15 0:00,0,,95,Iraq,10,Middle East & North Africa,Baghdad,Baghdad,33.360816,44.317626
+2.01605E+11,2016,5,25,3/28/16 0:00,0,,209,Turkey,10,Middle East & North Africa,Mardin,Anitli,37.477907,41.610437
+2.01605E+11,2016,5,25,5/25/16 0:00,0,,60,Egypt,10,Middle East & North Africa,North Sinai,Al-Muqataah,30.608472,33.617577
+2.01605E+11,2016,5,25,,0,,4,Afghanistan,6,South Asia,Kabul,Kabul,34.523728,69.096851
+2.01605E+11,2016,5,25,,0,,182,Somalia,11,Sub-Saharan Africa,Gedo,Ceel Waaq district,2.735278,41.017778
+2.01605E+11,2016,5,25,,0,,182,Somalia,11,Sub-Saharan Africa,Bari,Galgala,10.988328,49.055555
+2.01605E+11,2016,5,25,,0,,95,Iraq,10,Middle East & North Africa,Baghdad,Baghdad,33.255134,44.480967
+2.01605E+11,2016,5,25,,0,,95,Iraq,10,Middle East & North Africa,Baghdad,Baghdad,33.257412,44.394635
+2.01605E+11,2016,5,25,5/25/16 0:00,0,,95,Iraq,10,Middle East & North Africa,Babil,Musayyib,32.789256,44.306932
+2.01605E+11,2016,5,25,5/25/16 0:00,0,,95,Iraq,10,Middle East & North Africa,Babil,Ash Shuhada,33.052817,44.340093
+2.01605E+11,2016,5,25,5/25/16 0:00,0,,95,Iraq,10,Middle East & North Africa,Wasit,Hayy al-Jamiah,32.602409,45.752099
+2.01605E+11,2016,5,25,5/25/16 0:00,0,,228,Yemen,10,Middle East & North Africa,Marib,Marib,15.515888,45.449807

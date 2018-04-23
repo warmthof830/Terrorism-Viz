@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Terrorism Visualization</title>
+    <style>
+        /* Always set the map height explicitly to define the size of the div
+         * element that contains the map. */
+        #map {
+            height: 90%;
+
+
+        }
+        /* Optional: Makes the sample page fill the window. */
+        html, body {
+            height: 100%;
+            margin: 0;
+            padding: 0;
+        }
+        .slidecontainer {
+            width: 100%; /* Width of the outside container */
+        }
+        .slider {
+            -webkit-appearance: none;  /* Override default CSS styles */
+            appearance: none;
+            width: 100%; /* Full-width */
+            height: 25px; /* Specified height */
+            background: #d3d3d3; /* Grey background */
+            outline: none; /* Remove outline */
+            opacity: 0.7; /* Set transparency (for mouse-over effects on hover) */
+            -webkit-transition: .2s; /* 0.2 seconds transition on hover */
+            transition: opacity .2s;
+        }
+    </style>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+</head>
+<body>
+<div id="map"></div>
+<div class="slidecontainer">
+    <input type="range" min="1970" max="2016" value="1970" class="slider" id="myRange">
+    <p id="year"></p>
+</div>
+<script>
+    var map;
+    function initMap() {
+        map = new google.maps.Map(document.getElementById('map'), {
+            zoom: 2.3,
+            center: new google.maps.LatLng(0,0),
+            mapTypeId: 'terrain'
+        });
+
+        // Create a <script> tag and set the USGS URL as the source.
+
+
+    }
+    var slider = document.getElementById("myRange");
+    var output = document.getElementById("year");
+    var circleArray = [];
+    output.innerHTML = slider.value; // Display the default slider value
+
+    // Update the current slider value (each time you drag the slider handle)
+    slider.oninput = function() {
+        output.innerHTML = this.value;
+        circleArray.forEach(function (circle){
+            circle.setMap(null);
+
+        });
+        circleArray = [];
+
+        $.get("/recordsByYear?year="+this.value, function(data, status){
+            //console.log(JSON.parse(data).length);
+            data.forEach(function (record){
+                var circle = new google.maps.Circle({
+                    strokeColor: '#FF0000',
+                    strokeOpacity: 0.8,
+                    strokeWeight: 2,
+                    fillColor: '#FF0000',
+                    fillOpacity: 0.35,
+                    map: map,
+                    center: {lat: parseFloat(record.lat), lng: parseFloat(record.lng)},
+                    radius: 500
+                });
+                circleArray.push(circle);
+            });
+        });
+
+    };
+
+    $.get("/recordsByYear?year=1970", function(data, status){
+        //console.log(data);
+        //console.log(data.length);
+        data.forEach(function (record){
+            var circle = new google.maps.Circle({
+                strokeColor: '#FF0000',
+                strokeOpacity: 0.8,
+                strokeWeight: 2,
+                fillColor: '#FF0000',
+                fillOpacity: 0.35,
+                map: map,
+                center: {lat: parseFloat(record.lat), lng: parseFloat(record.lng)},
+                radius: 500
+            });
+            circleArray.push(circle);
+        });
+    });
+
+
+
+</script>
+<script async defer
+        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAVT1EUePVywkA_MA9Lv_MIzmUxavl5jn8&callback=initMap">
+</script>
+</body>
+</html>
